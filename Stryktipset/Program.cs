@@ -1,15 +1,23 @@
-﻿using System;
+using System;
+using System.Collections.Generic;
 using System.Linq;
-using StryktipsetCore;
+using System.Threading.Tasks;
+using System.Windows.Forms;
 
-//for (int i = 1; i <= 13; i++)
-//{
-//    var random = new Random().Next(3);
-
-//    Console.WriteLine($"{i, 2}: {(random == 0 ? "X" : random)}");
-//}
-
-var omgång1 = Read.GetOmgångs().First();
-
-Console.WriteLine($"{omgång1.Id}, {omgång1.Vecka}, {omgång1.RättRad}, {omgång1.Omsättning}, {omgång1.Utdelning13}{null}{null}");
-Console.ReadLine();
+namespace Stryktipset
+{
+    static class Program
+    {
+        /// <summary>
+        ///  The main entry point for the application.
+        /// </summary>
+        [STAThread]
+        static void Main()
+        {
+            Application.SetHighDpiMode(HighDpiMode.SystemAware);
+            Application.EnableVisualStyles();
+            Application.SetCompatibleTextRenderingDefault(false);
+            Application.Run(new Stryktipset());
+        }
+    }
+}
