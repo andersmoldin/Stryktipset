@@ -11,10 +11,11 @@ namespace StryktipsetCore
 {
     public class Read
     {
-        private static Omgång[] Omgångar()
+        private static Omgång[] Omgångar(string summering)
         {
             //using (var reader = new StreamReader("/Users/andersmoldin/Dropbox/Stryktipset/TipsXtra.se_Statistik_Summering_2021-01-28.csv"))
-            using (var reader = new StreamReader(@"C:\Users\andersmoldin\Downloads\TipsXtra.se_Statistik_Summering_2021-01-28.csv"))
+            //using (var reader = new StreamReader(@"C:\Users\andersmoldin\Downloads\TipsXtra.se_Statistik_Summering_2021-01-28.csv"))
+            using (var reader = new StreamReader(summering))
 
             using (var csv = new CsvReader(reader, new CsvConfiguration(CultureInfo.InvariantCulture) { Delimiter = ";", TrimOptions = TrimOptions.Trim }))
             {
@@ -36,9 +37,10 @@ namespace StryktipsetCore
             }
         }
 
-        private static Match[] Matcher()
+        private static Match[] Matcher(string detaljer)
         {
-            using (var reader = new StreamReader(@"C:\Users\andersmoldin\Downloads\TipsXtra.se_Statistik_Detaljer_2021-01-28.csv"))
+            //using (var reader = new StreamReader(@"C:\Users\andersmoldin\Downloads\TipsXtra.se_Statistik_Detaljer_2021-01-28.csv"))
+            using (var reader = new StreamReader(detaljer))
 
             using (var csv = new CsvReader(reader, new CsvConfiguration(CultureInfo.InvariantCulture) { Delimiter = ";", TrimOptions = TrimOptions.Trim }))
             {
@@ -70,9 +72,9 @@ namespace StryktipsetCore
             return omgångar;
         }
 
-        public static Omgång[] OmgångarMedMatcher()
+        public static Omgång[] OmgångarMedMatcher(string summering, string detaljer)
         {
-            return Intertwine(Omgångar(), Matcher());
+            return Intertwine(Omgångar(summering), Matcher(detaljer));
         }
     }
 }
