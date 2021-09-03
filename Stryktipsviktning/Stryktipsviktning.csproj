@@ -12,11 +12,18 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\StryktipsetCore\StryktipsetCore.csproj" />
     <ProjectReference Include="..\Weighted Randomizer\Weighted Randomizer.csproj" />
   </ItemGroup>
 
   <ItemGroup>
     <None Remove="HtmlAgilityPack" />
     <None Remove="Selenium.WebDriver" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="tempStringTask.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
   </ItemGroup>
 </Project>
