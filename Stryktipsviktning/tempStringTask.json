@@ -1,0 +1,3224 @@
+﻿[
+    {
+        "checksum": "85f05376be3112b9d37ba3ca50cdf36f5b85b66f",
+        "closeTime": "2021-09-04T13:59:00+00:00",
+        "drawComment": "Stryktipset v. 2021-35",
+        "drawNumber": 4705,
+        "events": [
+            {
+                "cancelled": false,
+                "description": "Ukraina-Frankrike",
+                "distribution": {
+                    "away": "25",
+                    "draw": "19",
+                    "home": "56"
+                },
+                "eventNumber": 1,
+                "eventTypeDescription": "",
+                "extraInfo": null,
+                "league": {
+                    "country": {
+                        "id": 1000094,
+                        "name": "Internationell"
+                    },
+                    "id": 1000344,
+                    "name": "Fotbolls-VM, kval Europa, grupp D",
+                    "season": {
+                        "id": 14217328,
+                        "name": "VM-kval, UEFA Grupp D 2022"
+                    }
+                },
+                "newspaperAdvice": {
+                    "away": "10",
+                    "draw": "0",
+                    "home": "0"
+                },
+                "odds": {
+                    "away": "3.50",
+                    "draw": "3.86",
+                    "home": "2.04"
+                },
+                "outcomes": null,
+                "participantType": "team",
+                "participants": [
+                    {
+                        "id": 1000951,
+                        "name": "Ukraina",
+                        "type": "home"
+                    },
+                    {
+                        "id": 1000535,
+                        "name": "Frankrike",
+                        "type": "away"
+                    }
+                ],
+                "sportEventId": 14217452,
+                "sportEventStart": "2021-09-04T18:45:00+00:00"
+            },
+            {
+                "cancelled": false,
+                "description": "Lettland-Norge",
+                "distribution": {
+                    "away": "50",
+                    "draw": "28",
+                    "home": "22"
+                },
+                "eventNumber": 2,
+                "eventTypeDescription": "",
+                "extraInfo": null,
+                "league": {
+                    "country": {
+                        "id": 1000094,
+                        "name": "Internationell"
+                    },
+                    "id": 1000347,
+                    "name": "Fotbolls-VM, kval Europa, grupp G",
+                    "season": {
+                        "id": 14217334,
+                        "name": "VM-kval, UEFA Grupp G 2022"
+                    }
+                },
+                "newspaperAdvice": {
+                    "away": "10",
+                    "draw": "0",
+                    "home": "0"
+                },
+                "odds": {
+                    "away": "2.20",
+                    "draw": "3.19",
+                    "home": "3.73"
+                },
+                "outcomes": null,
+                "participantType": "team",
+                "participants": [
+                    {
+                        "id": 1000421,
+                        "name": "Lettland",
+                        "type": "home"
+                    },
+                    {
+                        "id": 1001159,
+                        "name": "Norge",
+                        "type": "away"
+                    }
+                ],
+                "sportEventId": 14217447,
+                "sportEventStart": "2021-09-04T16:00:00+00:00"
+            },
+            {
+                "cancelled": false,
+                "description": "Slovakien-Kroatien",
+                "distribution": {
+                    "away": "61",
+                    "draw": "23",
+                    "home": "16"
+                },
+                "eventNumber": 3,
+                "eventTypeDescription": "",
+                "extraInfo": null,
+                "league": {
+                    "country": {
+                        "id": 1000094,
+                        "name": "Internationell"
+                    },
+                    "id": 1000348,
+                    "name": "Fotbolls-VM, kval Europa, grupp H",
+                    "season": {
+                        "id": 14217370,
+                        "name": "VM-kval, UEFA Grupp H 2022"
+                    }
+                },
+                "newspaperAdvice": {
+                    "away": "8",
+                    "draw": "2",
+                    "home": "0"
+                },
+                "odds": {
+                    "away": "1.86",
+                    "draw": "3.61",
+                    "home": "4,50"
+                },
+                "outcomes": null,
+                "participantType": "team",
+                "participants": [
+                    {
+                        "id": 1000417,
+                        "name": "Slovakien",
+                        "type": "home"
+                    },
+                    {
+                        "id": 1001443,
+                        "name": "Kroatien",
+                        "type": "away"
+                    }
+                ],
+                "sportEventId": 14217504,
+                "sportEventStart": "2021-09-04T18:45:00+00:00"
+            },
+            {
+                "cancelled": false,
+                "description": "Cypern-Ryssland",
+                "distribution": {
+                    "away": "69",
+                    "draw": "18",
+                    "home": "13"
+                },
+                "eventNumber": 4,
+                "eventTypeDescription": "",
+                "extraInfo": null,
+                "league": {
+                    "country": {
+                        "id": 1000094,
+                        "name": "Internationell"
+                    },
+                    "id": 1000348,
+                    "name": "Fotbolls-VM, kval Europa, grupp H",
+                    "season": {
+                        "id": 14217370,
+                        "name": "VM-kval, UEFA Grupp H 2022"
+                    }
+                },
+                "newspaperAdvice": {
+                    "away": "10",
+                    "draw": "0",
+                    "home": "0"
+                },
+                "odds": {
+                    "away": "1,38",
+                    "draw": "4,80",
+                    "home": "8,25"
+                },
+                "outcomes": null,
+                "participantType": "team",
+                "participants": [
+                    {
+                        "id": 1000812,
+                        "name": "Cypern",
+                        "type": "home"
+                    },
+                    {
+                        "id": 1000910,
+                        "name": "Ryssland",
+                        "type": "away"
+                    }
+                ],
+                "sportEventId": 14217503,
+                "sportEventStart": "2021-09-04T16:00:00+00:00"
+            },
+            {
+                "cancelled": false,
+                "description": "Irland-Azerbajdzjan",
+                "distribution": {
+                    "away": "11",
+                    "draw": "23",
+                    "home": "66"
+                },
+                "eventNumber": 5,
+                "eventTypeDescription": "",
+                "extraInfo": null,
+                "league": {
+                    "country": {
+                        "id": 1000094,
+                        "name": "Internationell"
+                    },
+                    "id": 1000341,
+                    "name": "Fotbolls-VM, kval Europa, grupp A",
+                    "season": {
+                        "id": 14217344,
+                        "name": "VM-kval, UEFA Grupp A 2022"
+                    }
+                },
+                "newspaperAdvice": {
+                    "away": "0",
+                    "draw": "0",
+                    "home": "10"
+                },
+                "odds": {
+                    "away": "6,05",
+                    "draw": "4,25",
+                    "home": "1,55"
+                },
+                "outcomes": null,
+                "participantType": "team",
+                "participants": [
+                    {
+                        "id": 1001486,
+                        "name": "Irland",
+                        "type": "home"
+                    },
+                    {
+                        "id": 1000419,
+                        "name": "Azerbajdzjan",
+                        "type": "away"
+                    }
+                ],
+                "sportEventId": 14217496,
+                "sportEventStart": "2021-09-04T16:00:00+00:00"
+            },
+            {
+                "cancelled": false,
+                "description": "Israel-\u00d6sterrike",
+                "distribution": {
+                    "away": "41",
+                    "draw": "30",
+                    "home": "29"
+                },
+                "eventNumber": 6,
+                "eventTypeDescription": "",
+                "extraInfo": null,
+                "league": {
+                    "country": {
+                        "id": 1000094,
+                        "name": "Internationell"
+                    },
+                    "id": 1000346,
+                    "name": "Fotbolls-VM, kval Europa, grupp F",
+                    "season": {
+                        "id": 14217324,
+                        "name": "VM-kval, UEFA Grupp F 2022"
+                    }
+                },
+                "newspaperAdvice": {
+                    "away": "9",
+                    "draw": "0",
+                    "home": "1"
+                },
+                "odds": {
+                    "away": "2,18",
+                    "draw": "3,38",
+                    "home": "3,41"
+                },
+                "outcomes": null,
+                "participantType": "team",
+                "participants": [
+                    {
+                        "id": 1000843,
+                        "name": "Israel",
+                        "type": "home"
+                    },
+                    {
+                        "id": 1000352,
+                        "name": "\u00d6sterrike",
+                        "type": "away"
+                    }
+                ],
+                "sportEventId": 14217489,
+                "sportEventStart": "2021-09-04T18:45:00+00:00"
+            },
+            {
+                "cancelled": false,
+                "description": "Skottland-Moldavien",
+                "distribution": {
+                    "away": "8",
+                    "draw": "12",
+                    "home": "80"
+                },
+                "eventNumber": 7,
+                "eventTypeDescription": "",
+                "extraInfo": null,
+                "league": {
+                    "country": {
+                        "id": 1000094,
+                        "name": "Internationell"
+                    },
+                    "id": 1000346,
+                    "name": "Fotbolls-VM, kval Europa, grupp F",
+                    "season": {
+                        "id": 14217324,
+                        "name": "VM-kval, UEFA Grupp F 2022"
+                    }
+                },
+                "newspaperAdvice": {
+                    "away": "0",
+                    "draw": "0",
+                    "home": "10"
+                },
+                "odds": {
+                    "away": "13,00",
+                    "draw": "7,55",
+                    "home": "1,20"
+                },
+                "outcomes": null,
+                "participantType": "team",
+                "participants": [
+                    {
+                        "id": 1000922,
+                        "name": "Skottland",
+                        "type": "home"
+                    },
+                    {
+                        "id": 1000883,
+                        "name": "Moldavien",
+                        "type": "away"
+                    }
+                ],
+                "sportEventId": 14217498,
+                "sportEventStart": "2021-09-04T18:45:00+00:00"
+            },
+            {
+                "cancelled": false,
+                "description": "Serbien-Luxemburg",
+                "distribution": {
+                    "away": "8",
+                    "draw": "15",
+                    "home": "77"
+                },
+                "eventNumber": 8,
+                "eventTypeDescription": "",
+                "extraInfo": null,
+                "league": {
+                    "country": {
+                        "id": 1000094,
+                        "name": "Internationell"
+                    },
+                    "id": 1000341,
+                    "name": "Fotbolls-VM, kval Europa, grupp A",
+                    "season": {
+                        "id": 14217344,
+                        "name": "VM-kval, UEFA Grupp A 2022"
+                    }
+                },
+                "newspaperAdvice": {
+                    "away": "0",
+                    "draw": "0",
+                    "home": "10"
+                },
+                "odds": {
+                    "away": "11,70",
+                    "draw": "7,10",
+                    "home": "1,22"
+                },
+                "outcomes": null,
+                "participantType": "team",
+                "participants": [
+                    {
+                        "id": 1003924,
+                        "name": "Serbien",
+                        "type": "home"
+                    },
+                    {
+                        "id": 1000871,
+                        "name": "Luxemburg",
+                        "type": "away"
+                    }
+                ],
+                "sportEventId": 14217491,
+                "sportEventStart": "2021-09-04T16:00:00+00:00"
+            },
+            {
+                "cancelled": false,
+                "description": "IF Sylvia-Hudiksvalls F\u00f6renade FF",
+                "distribution": {
+                    "away": "12",
+                    "draw": "20",
+                    "home": "68"
+                },
+                "eventNumber": 9,
+                "eventTypeDescription": "",
+                "extraInfo": null,
+                "league": {
+                    "country": {
+                        "id": 1000006,
+                        "name": "Sverige"
+                    },
+                    "id": 1000377,
+                    "name": "Ettan Norra",
+                    "season": {
+                        "id": 14564679,
+                        "name": "Division 1 norra 2021"
+                    }
+                },
+                "newspaperAdvice": {
+                    "away": "0",
+                    "draw": "0",
+                    "home": "10"
+                },
+                "odds": {
+                    "away": "9,10",
+                    "draw": "5,35",
+                    "home": "1,27"
+                },
+                "outcomes": null,
+                "participantType": "team",
+                "participants": [
+                    {
+                        "id": 1000310,
+                        "name": "IF Sylvia",
+                        "type": "home"
+                    },
+                    {
+                        "id": 1007290,
+                        "name": "Hudiksvalls F\u00f6renade FF",
+                        "type": "away"
+                    }
+                ],
+                "sportEventId": 14711078,
+                "sportEventStart": "2021-09-04T14:00:00+00:00"
+            },
+            {
+                "cancelled": false,
+                "description": "Sollentuna FK-T\u00e4by FK",
+                "distribution": {
+                    "away": "20",
+                    "draw": "27",
+                    "home": "53"
+                },
+                "eventNumber": 10,
+                "eventTypeDescription": "",
+                "extraInfo": null,
+                "league": {
+                    "country": {
+                        "id": 1000006,
+                        "name": "Sverige"
+                    },
+                    "id": 1000377,
+                    "name": "Ettan Norra",
+                    "season": {
+                        "id": 14564679,
+                        "name": "Division 1 norra 2021"
+                    }
+                },
+                "newspaperAdvice": {
+                    "away": "0",
+                    "draw": "0",
+                    "home": "10"
+                },
+                "odds": {
+                    "away": "3,36",
+                    "draw": "3,85",
+                    "home": "1,90"
+                },
+                "outcomes": null,
+                "participantType": "team",
+                "participants": [
+                    {
+                        "id": 1004317,
+                        "name": "Sollentuna FK",
+                        "type": "home"
+                    },
+                    {
+                        "id": 1365219,
+                        "name": "T\u00e4by FK",
+                        "type": "away"
+                    }
+                ],
+                "sportEventId": 14711080,
+                "sportEventStart": "2021-09-04T15:00:00+00:00"
+            },
+            {
+                "cancelled": false,
+                "description": "Lunds BK-FC Trollh\u00e4ttan",
+                "distribution": {
+                    "away": "37",
+                    "draw": "29",
+                    "home": "34"
+                },
+                "eventNumber": 11,
+                "eventTypeDescription": "",
+                "extraInfo": null,
+                "league": {
+                    "country": {
+                        "id": 1000006,
+                        "name": "Sverige"
+                    },
+                    "id": 1000376,
+                    "name": "Ettan S\u00f6dra",
+                    "season": {
+                        "id": 14564680,
+                        "name": "Division 1 s\u00f6dra 2021"
+                    }
+                },
+                "newspaperAdvice": {
+                    "away": "9",
+                    "draw": "0",
+                    "home": "1"
+                },
+                "odds": null,
+                "outcomes": null,
+                "participantType": "team",
+                "participants": [
+                    {
+                        "id": 1000860,
+                        "name": "Lunds BK",
+                        "type": "home"
+                    },
+                    {
+                        "id": 1001360,
+                        "name": "FC Trollh\u00e4ttan",
+                        "type": "away"
+                    }
+                ],
+                "sportEventId": 14710846,
+                "sportEventStart": "2021-09-04T14:00:00+00:00"
+            },
+            {
+                "cancelled": false,
+                "description": "Almeria-Malaga",
+                "distribution": {
+                    "away": "18",
+                    "draw": "30",
+                    "home": "52"
+                },
+                "eventNumber": 12,
+                "eventTypeDescription": "",
+                "extraInfo": null,
+                "league": {
+                    "country": {
+                        "id": 1000011,
+                        "name": "Spanien"
+                    },
+                    "id": 1000450,
+                    "name": "LaLiga 2",
+                    "season": {
+                        "id": 15223335,
+                        "name": "LaLiga 2 21/22"
+                    }
+                },
+                "newspaperAdvice": {
+                    "away": "0",
+                    "draw": "0",
+                    "home": "10"
+                },
+                "odds": {
+                    "away": "4,80",
+                    "draw": "3,22",
+                    "home": "1,71"
+                },
+                "outcomes": null,
+                "participantType": "team",
+                "participants": [
+                    {
+                        "id": 1003502,
+                        "name": "Almeria",
+                        "type": "home"
+                    },
+                    {
+                        "id": 1000760,
+                        "name": "Malaga",
+                        "type": "away"
+                    }
+                ],
+                "sportEventId": 15228345,
+                "sportEventStart": "2021-09-04T19:00:00+00:00"
+            },
+            {
+                "cancelled": false,
+                "description": "Eibar-CD Leganes",
+                "distribution": {
+                    "away": "22",
+                    "draw": "34",
+                    "home": "44"
+                },
+                "eventNumber": 13,
+                "eventTypeDescription": "",
+                "extraInfo": null,
+                "league": {
+                    "country": {
+                        "id": 1000011,
+                        "name": "Spanien"
+                    },
+                    "id": 1000450,
+                    "name": "LaLiga 2",
+                    "season": {
+                        "id": 15223335,
+                        "name": "LaLiga 2 21/22"
+                    }
+                },
+                "newspaperAdvice": {
+                    "away": "0",
+                    "draw": "0",
+                    "home": "10"
+                },
+                "odds": {
+                    "away": "3,22",
+                    "draw": "2,92",
+                    "home": "2,21"
+                },
+                "outcomes": null,
+                "participantType": "team",
+                "participants": [
+                    {
+                        "id": 1002713,
+                        "name": "Eibar",
+                        "type": "home"
+                    },
+                    {
+                        "id": 1016528,
+                        "name": "CD Leganes",
+                        "type": "away"
+                    }
+                ],
+                "sportEventId": 15228351,
+                "sportEventStart": "2021-09-04T14:00:00+00:00"
+            }
+        ],
+        "extraInfo": null,
+        "fund": null,
+        "openTime": "2021-09-01T05:00:00+00:00",
+        "productId": 1,
+        "productName": "Stryktipset",
+        "sport": "Fotboll",
+        "sportId": 1,
+        "turnover": "3274136,00"
+    },
+    {
+        "checksum": "4361428a0a479d7949552b59627a28fd0b76611d",
+        "closeTime": "2021-08-28T13:59:00+00:00",
+        "drawComment": "Stryktipset v. 2021-34",
+        "drawNumber": 4704,
+        "events": [
+            {
+                "cancelled": false,
+                "description": "Liverpool-Chelsea",
+                "distribution": {
+                    "away": "29",
+                    "draw": "29",
+                    "home": "42"
+                },
+                "eventNumber": 1,
+                "eventTypeDescription": "",
+                "extraInfo": null,
+                "league": {
+                    "country": {
+                        "id": 1000007,
+                        "name": "England"
+                    },
+                    "id": 1000380,
+                    "name": "Premier League",
+                    "season": {
+                        "id": 15188314,
+                        "name": "Premier League 21/22"
+                    }
+                },
+                "newspaperAdvice": {
+                    "away": "2",
+                    "draw": "2",
+                    "home": "6"
+                },
+                "odds": {
+                    "away": "2,93",
+                    "draw": "3,12",
+                    "home": "2,35"
+                },
+                "outcomes": null,
+                "participantType": "team",
+                "participants": [
+                    {
+                        "id": 1000572,
+                        "name": "Liverpool",
+                        "type": "home"
+                    },
+                    {
+                        "id": 1000036,
+                        "name": "Chelsea",
+                        "type": "away"
+                    }
+                ],
+                "sportEventId": 15188391,
+                "sportEventStart": "2021-08-28T16:30:00+00:00"
+            },
+            {
+                "cancelled": false,
+                "description": "Newcastle-Southampton",
+                "distribution": {
+                    "away": "39",
+                    "draw": "24",
+                    "home": "37"
+                },
+                "eventNumber": 2,
+                "eventTypeDescription": "",
+                "extraInfo": null,
+                "league": {
+                    "country": {
+                        "id": 1000007,
+                        "name": "England"
+                    },
+                    "id": 1000380,
+                    "name": "Premier League",
+                    "season": {
+                        "id": 15188314,
+                        "name": "Premier League 21/22"
+                    }
+                },
+                "newspaperAdvice": {
+                    "away": "3",
+                    "draw": "1",
+                    "home": "6"
+                },
+                "odds": {
+                    "away": "2,83",
+                    "draw": "3,60",
+                    "home": "2,47"
+                },
+                "outcomes": null,
+                "participantType": "team",
+                "participants": [
+                    {
+                        "id": 1000041,
+                        "name": "Newcastle",
+                        "type": "home"
+                    },
+                    {
+                        "id": 1000079,
+                        "name": "Southampton",
+                        "type": "away"
+                    }
+                ],
+                "sportEventId": 15188630,
+                "sportEventStart": "2021-08-28T14:00:00+00:00"
+            },
+            {
+                "cancelled": false,
+                "description": "Aston Villa-Brentford",
+                "distribution": {
+                    "away": "18",
+                    "draw": "23",
+                    "home": "59"
+                },
+                "eventNumber": 3,
+                "eventTypeDescription": "",
+                "extraInfo": null,
+                "league": {
+                    "country": {
+                        "id": 1000007,
+                        "name": "England"
+                    },
+                    "id": 1000380,
+                    "name": "Premier League",
+                    "season": {
+                        "id": 15188314,
+                        "name": "Premier League 21/22"
+                    }
+                },
+                "newspaperAdvice": {
+                    "away": "0",
+                    "draw": "0",
+                    "home": "10"
+                },
+                "odds": {
+                    "away": "3,96",
+                    "draw": "3,29",
+                    "home": "2,09"
+                },
+                "outcomes": null,
+                "participantType": "team",
+                "participants": [
+                    {
+                        "id": 1000512,
+                        "name": "Aston Villa",
+                        "type": "home"
+                    },
+                    {
+                        "id": 1000506,
+                        "name": "Brentford",
+                        "type": "away"
+                    }
+                ],
+                "sportEventId": 15188398,
+                "sportEventStart": "2021-08-28T14:00:00+00:00"
+            },
+            {
+                "cancelled": false,
+                "description": "Norwich-Leicester",
+                "distribution": {
+                    "away": "66",
+                    "draw": "19",
+                    "home": "15"
+                },
+                "eventNumber": 4,
+                "eventTypeDescription": "",
+                "extraInfo": null,
+                "league": {
+                    "country": {
+                        "id": 1000007,
+                        "name": "England"
+                    },
+                    "id": 1000380,
+                    "name": "Premier League",
+                    "season": {
+                        "id": 15188314,
+                        "name": "Premier League 21/22"
+                    }
+                },
+                "newspaperAdvice": {
+                    "away": "10",
+                    "draw": "0",
+                    "home": "0"
+                },
+                "odds": {
+                    "away": "1,87",
+                    "draw": "3,66",
+                    "home": "4,35"
+                },
+                "outcomes": null,
+                "participantType": "team",
+                "participants": [
+                    {
+                        "id": 1000045,
+                        "name": "Norwich",
+                        "type": "home"
+                    },
+                    {
+                        "id": 1000077,
+                        "name": "Leicester",
+                        "type": "away"
+                    }
+                ],
+                "sportEventId": 15188486,
+                "sportEventStart": "2021-08-28T14:00:00+00:00"
+            },
+            {
+                "cancelled": false,
+                "description": "West Ham-Crystal P",
+                "distribution": {
+                    "away": "8",
+                    "draw": "16",
+                    "home": "76"
+                },
+                "eventNumber": 5,
+                "eventTypeDescription": "",
+                "extraInfo": null,
+                "league": {
+                    "country": {
+                        "id": 1000007,
+                        "name": "England"
+                    },
+                    "id": 1000380,
+                    "name": "Premier League",
+                    "season": {
+                        "id": 15188314,
+                        "name": "Premier League 21/22"
+                    }
+                },
+                "newspaperAdvice": {
+                    "away": "0",
+                    "draw": "0",
+                    "home": "10"
+                },
+                "odds": {
+                    "away": "6,30",
+                    "draw": "4,20",
+                    "home": "1,56"
+                },
+                "outcomes": null,
+                "participantType": "team",
+                "participants": [
+                    {
+                        "id": 1000044,
+                        "name": "West Ham",
+                        "type": "home"
+                    },
+                    {
+                        "id": 1000038,
+                        "name": "Crystal P",
+                        "type": "away"
+                    }
+                ],
+                "sportEventId": 15188629,
+                "sportEventStart": "2021-08-28T14:00:00+00:00"
+            },
+            {
+                "cancelled": false,
+                "description": "Brighton-Everton",
+                "distribution": {
+                    "away": "29",
+                    "draw": "27",
+                    "home": "44"
+                },
+                "eventNumber": 6,
+                "eventTypeDescription": "",
+                "extraInfo": null,
+                "league": {
+                    "country": {
+                        "id": 1000007,
+                        "name": "England"
+                    },
+                    "id": 1000380,
+                    "name": "Premier League",
+                    "season": {
+                        "id": 15188314,
+                        "name": "Premier League 21/22"
+                    }
+                },
+                "newspaperAdvice": {
+                    "away": "3",
+                    "draw": "1",
+                    "home": "6"
+                },
+                "odds": {
+                    "away": "3,38",
+                    "draw": "3,26",
+                    "home": "2,31"
+                },
+                "outcomes": null,
+                "participantType": "team",
+                "participants": [
+                    {
+                        "id": 1000430,
+                        "name": "Brighton",
+                        "type": "home"
+                    },
+                    {
+                        "id": 1000039,
+                        "name": "Everton",
+                        "type": "away"
+                    }
+                ],
+                "sportEventId": 15188390,
+                "sportEventStart": "2021-08-28T14:00:00+00:00"
+            },
+            {
+                "cancelled": false,
+                "description": "Barnsley-Birmingham",
+                "distribution": {
+                    "away": "28",
+                    "draw": "27",
+                    "home": "45"
+                },
+                "eventNumber": 7,
+                "eventTypeDescription": "",
+                "extraInfo": null,
+                "league": {
+                    "country": {
+                        "id": 1000007,
+                        "name": "England"
+                    },
+                    "id": 1000381,
+                    "name": "Championship",
+                    "season": {
+                        "id": 15208122,
+                        "name": "Championship 21/22"
+                    }
+                },
+                "newspaperAdvice": {
+                    "away": "1",
+                    "draw": "2",
+                    "home": "7"
+                },
+                "odds": {
+                    "away": "3,10",
+                    "draw": "3,08",
+                    "home": "2,50"
+                },
+                "outcomes": null,
+                "participantType": "team",
+                "participants": [
+                    {
+                        "id": 1000562,
+                        "name": "Barnsley",
+                        "type": "home"
+                    },
+                    {
+                        "id": 1000138,
+                        "name": "Birmingham",
+                        "type": "away"
+                    }
+                ],
+                "sportEventId": 15208264,
+                "sportEventStart": "2021-08-28T14:00:00+00:00"
+            },
+            {
+                "cancelled": false,
+                "description": "Fulham-Stoke",
+                "distribution": {
+                    "away": "12",
+                    "draw": "22",
+                    "home": "66"
+                },
+                "eventNumber": 8,
+                "eventTypeDescription": "",
+                "extraInfo": null,
+                "league": {
+                    "country": {
+                        "id": 1000007,
+                        "name": "England"
+                    },
+                    "id": 1000381,
+                    "name": "Championship",
+                    "season": {
+                        "id": 15208122,
+                        "name": "Championship 21/22"
+                    }
+                },
+                "newspaperAdvice": {
+                    "away": "0",
+                    "draw": "0",
+                    "home": "10"
+                },
+                "odds": {
+                    "away": "4,90",
+                    "draw": "3,45",
+                    "home": "1,80"
+                },
+                "outcomes": null,
+                "participantType": "team",
+                "participants": [
+                    {
+                        "id": 1000489,
+                        "name": "Fulham",
+                        "type": "home"
+                    },
+                    {
+                        "id": 1000052,
+                        "name": "Stoke",
+                        "type": "away"
+                    }
+                ],
+                "sportEventId": 15208260,
+                "sportEventStart": "2021-08-28T14:00:00+00:00"
+            },
+            {
+                "cancelled": false,
+                "description": "Huddersfield-Reading",
+                "distribution": {
+                    "away": "22",
+                    "draw": "24",
+                    "home": "54"
+                },
+                "eventNumber": 9,
+                "eventTypeDescription": "",
+                "extraInfo": null,
+                "league": {
+                    "country": {
+                        "id": 1000007,
+                        "name": "England"
+                    },
+                    "id": 1000381,
+                    "name": "Championship",
+                    "season": {
+                        "id": 15208122,
+                        "name": "Championship 21/22"
+                    }
+                },
+                "newspaperAdvice": {
+                    "away": "1",
+                    "draw": "1",
+                    "home": "8"
+                },
+                "odds": {
+                    "away": "3,51",
+                    "draw": "3,27",
+                    "home": "2,19"
+                },
+                "outcomes": null,
+                "participantType": "team",
+                "participants": [
+                    {
+                        "id": 1000140,
+                        "name": "Huddersfield",
+                        "type": "home"
+                    },
+                    {
+                        "id": 1000050,
+                        "name": "Reading",
+                        "type": "away"
+                    }
+                ],
+                "sportEventId": 15208240,
+                "sportEventStart": "2021-08-28T14:00:00+00:00"
+            },
+            {
+                "cancelled": false,
+                "description": "Hull-Bournemouth",
+                "distribution": {
+                    "away": "59",
+                    "draw": "23",
+                    "home": "18"
+                },
+                "eventNumber": 10,
+                "eventTypeDescription": "",
+                "extraInfo": null,
+                "league": {
+                    "country": {
+                        "id": 1000007,
+                        "name": "England"
+                    },
+                    "id": 1000381,
+                    "name": "Championship",
+                    "season": {
+                        "id": 15208122,
+                        "name": "Championship 21/22"
+                    }
+                },
+                "newspaperAdvice": {
+                    "away": "10",
+                    "draw": "0",
+                    "home": "0"
+                },
+                "odds": {
+                    "away": "2,29",
+                    "draw": "3,38",
+                    "home": "3,19"
+                },
+                "outcomes": null,
+                "participantType": "team",
+                "participants": [
+                    {
+                        "id": 1000560,
+                        "name": "Hull",
+                        "type": "home"
+                    },
+                    {
+                        "id": 1000485,
+                        "name": "Bournemouth",
+                        "type": "away"
+                    }
+                ],
+                "sportEventId": 15208227,
+                "sportEventStart": "2021-08-28T14:00:00+00:00"
+            },
+            {
+                "cancelled": false,
+                "description": "Middlesbrough-Blackburn",
+                "distribution": {
+                    "away": "26",
+                    "draw": "28",
+                    "home": "46"
+                },
+                "eventNumber": 11,
+                "eventTypeDescription": "",
+                "extraInfo": null,
+                "league": {
+                    "country": {
+                        "id": 1000007,
+                        "name": "England"
+                    },
+                    "id": 1000381,
+                    "name": "Championship",
+                    "season": {
+                        "id": 15208122,
+                        "name": "Championship 21/22"
+                    }
+                },
+                "newspaperAdvice": {
+                    "away": "1",
+                    "draw": "1",
+                    "home": "8"
+                },
+                "odds": {
+                    "away": "3,19",
+                    "draw": "3,24",
+                    "home": "2,39"
+                },
+                "outcomes": null,
+                "participantType": "team",
+                "participants": [
+                    {
+                        "id": 1000329,
+                        "name": "Middlesbrough",
+                        "type": "home"
+                    },
+                    {
+                        "id": 1000074,
+                        "name": "Blackburn",
+                        "type": "away"
+                    }
+                ],
+                "sportEventId": 15208228,
+                "sportEventStart": "2021-08-28T14:00:00+00:00"
+            },
+            {
+                "cancelled": false,
+                "description": "Preston-Swansea",
+                "distribution": {
+                    "away": "27",
+                    "draw": "30",
+                    "home": "43"
+                },
+                "eventNumber": 12,
+                "eventTypeDescription": "",
+                "extraInfo": null,
+                "league": {
+                    "country": {
+                        "id": 1000007,
+                        "name": "England"
+                    },
+                    "id": 1000381,
+                    "name": "Championship",
+                    "season": {
+                        "id": 15208122,
+                        "name": "Championship 21/22"
+                    }
+                },
+                "newspaperAdvice": {
+                    "away": "5",
+                    "draw": "0",
+                    "home": "5"
+                },
+                "odds": {
+                    "away": "3,35",
+                    "draw": "3,19",
+                    "home": "2,30"
+                },
+                "outcomes": null,
+                "participantType": "team",
+                "participants": [
+                    {
+                        "id": 1000500,
+                        "name": "Preston",
+                        "type": "home"
+                    },
+                    {
+                        "id": 1000438,
+                        "name": "Swansea",
+                        "type": "away"
+                    }
+                ],
+                "sportEventId": 15208241,
+                "sportEventStart": "2021-08-28T14:00:00+00:00"
+            },
+            {
+                "cancelled": false,
+                "description": "Queens PR-Coventry",
+                "distribution": {
+                    "away": "19",
+                    "draw": "25",
+                    "home": "56"
+                },
+                "eventNumber": 13,
+                "eventTypeDescription": "",
+                "extraInfo": null,
+                "league": {
+                    "country": {
+                        "id": 1000007,
+                        "name": "England"
+                    },
+                    "id": 1000381,
+                    "name": "Championship",
+                    "season": {
+                        "id": 15208122,
+                        "name": "Championship 21/22"
+                    }
+                },
+                "newspaperAdvice": {
+                    "away": "0",
+                    "draw": "0",
+                    "home": "10"
+                },
+                "odds": {
+                    "away": "3,30",
+                    "draw": "3,38",
+                    "home": "2,23"
+                },
+                "outcomes": null,
+                "participantType": "team",
+                "participants": [
+                    {
+                        "id": 1000078,
+                        "name": "Queens PR",
+                        "type": "home"
+                    },
+                    {
+                        "id": 1000037,
+                        "name": "Coventry",
+                        "type": "away"
+                    }
+                ],
+                "sportEventId": 15208249,
+                "sportEventStart": "2021-08-28T14:00:00+00:00"
+            }
+        ],
+        "extraInfo": null,
+        "fund": null,
+        "openTime": "2021-08-25T05:00:00+00:00",
+        "productId": 1,
+        "productName": "Stryktipset",
+        "sport": "Fotboll",
+        "sportId": 1,
+        "turnover": "34422196,00"
+    },
+    {
+        "checksum": "4cef539b97281dc8c81ff14f95eb9fa948836ca6",
+        "closeTime": "2021-08-21T13:59:00+00:00",
+        "drawComment": "Stryktipset v. 2021-33",
+        "drawNumber": 4703,
+        "events": [
+            {
+                "cancelled": false,
+                "description": "Leeds-Everton",
+                "distribution": {
+                    "away": "33",
+                    "draw": "23",
+                    "home": "44"
+                },
+                "eventNumber": 1,
+                "eventTypeDescription": "",
+                "extraInfo": null,
+                "league": {
+                    "country": {
+                        "id": 1000007,
+                        "name": "England"
+                    },
+                    "id": 1000380,
+                    "name": "Premier League",
+                    "season": {
+                        "id": 15188314,
+                        "name": "Premier League 21/22"
+                    }
+                },
+                "newspaperAdvice": {
+                    "away": "1",
+                    "draw": "0",
+                    "home": "9"
+                },
+                "odds": {
+                    "away": "3,35",
+                    "draw": "3,53",
+                    "home": "2,20"
+                },
+                "outcomes": null,
+                "participantType": "team",
+                "participants": [
+                    {
+                        "id": 1000447,
+                        "name": "Leeds",
+                        "type": "home"
+                    },
+                    {
+                        "id": 1000039,
+                        "name": "Everton",
+                        "type": "away"
+                    }
+                ],
+                "sportEventId": 15188417,
+                "sportEventStart": "2021-08-21T14:00:00+00:00"
+            },
+            {
+                "cancelled": false,
+                "description": "Manchester C-Norwich",
+                "distribution": {
+                    "away": "2",
+                    "draw": "5",
+                    "home": "93"
+                },
+                "eventNumber": 2,
+                "eventTypeDescription": "",
+                "extraInfo": null,
+                "league": {
+                    "country": {
+                        "id": 1000007,
+                        "name": "England"
+                    },
+                    "id": 1000380,
+                    "name": "Premier League",
+                    "season": {
+                        "id": 15188314,
+                        "name": "Premier League 21/22"
+                    }
+                },
+                "newspaperAdvice": {
+                    "away": "0",
+                    "draw": "0",
+                    "home": "10"
+                },
+                "odds": {
+                    "away": "21,50",
+                    "draw": "10,70",
+                    "home": "1,11"
+                },
+                "outcomes": null,
+                "participantType": "team",
+                "participants": [
+                    {
+                        "id": 1000328,
+                        "name": "Manchester C",
+                        "type": "home"
+                    },
+                    {
+                        "id": 1000045,
+                        "name": "Norwich",
+                        "type": "away"
+                    }
+                ],
+                "sportEventId": 15188433,
+                "sportEventStart": "2021-08-21T14:00:00+00:00"
+            },
+            {
+                "cancelled": false,
+                "description": "Aston Villa-Newcastle",
+                "distribution": {
+                    "away": "16",
+                    "draw": "22",
+                    "home": "62"
+                },
+                "eventNumber": 3,
+                "eventTypeDescription": "",
+                "extraInfo": null,
+                "league": {
+                    "country": {
+                        "id": 1000007,
+                        "name": "England"
+                    },
+                    "id": 1000380,
+                    "name": "Premier League",
+                    "season": {
+                        "id": 15188314,
+                        "name": "Premier League 21/22"
+                    }
+                },
+                "newspaperAdvice": {
+                    "away": "0",
+                    "draw": "0",
+                    "home": "10"
+                },
+                "odds": {
+                    "away": "4,20",
+                    "draw": "3,90",
+                    "home": "1,84"
+                },
+                "outcomes": null,
+                "participantType": "team",
+                "participants": [
+                    {
+                        "id": 1000512,
+                        "name": "Aston Villa",
+                        "type": "home"
+                    },
+                    {
+                        "id": 1000041,
+                        "name": "Newcastle",
+                        "type": "away"
+                    }
+                ],
+                "sportEventId": 15188459,
+                "sportEventStart": "2021-08-21T14:00:00+00:00"
+            },
+            {
+                "cancelled": false,
+                "description": "Crystal P-Brentford",
+                "distribution": {
+                    "away": "31",
+                    "draw": "28",
+                    "home": "41"
+                },
+                "eventNumber": 4,
+                "eventTypeDescription": "",
+                "extraInfo": null,
+                "league": {
+                    "country": {
+                        "id": 1000007,
+                        "name": "England"
+                    },
+                    "id": 1000380,
+                    "name": "Premier League",
+                    "season": {
+                        "id": 15188314,
+                        "name": "Premier League 21/22"
+                    }
+                },
+                "newspaperAdvice": {
+                    "away": "4",
+                    "draw": "0",
+                    "home": "6"
+                },
+                "odds": {
+                    "away": "2,91",
+                    "draw": "3,17",
+                    "home": "2,65"
+                },
+                "outcomes": null,
+                "participantType": "team",
+                "participants": [
+                    {
+                        "id": 1000038,
+                        "name": "Crystal P",
+                        "type": "home"
+                    },
+                    {
+                        "id": 1000506,
+                        "name": "Brentford",
+                        "type": "away"
+                    }
+                ],
+                "sportEventId": 15188388,
+                "sportEventStart": "2021-08-21T14:00:00+00:00"
+            },
+            {
+                "cancelled": false,
+                "description": "Brighton-Watford",
+                "distribution": {
+                    "away": "16",
+                    "draw": "23",
+                    "home": "61"
+                },
+                "eventNumber": 5,
+                "eventTypeDescription": "",
+                "extraInfo": null,
+                "league": {
+                    "country": {
+                        "id": 1000007,
+                        "name": "England"
+                    },
+                    "id": 1000380,
+                    "name": "Premier League",
+                    "season": {
+                        "id": 15188314,
+                        "name": "Premier League 21/22"
+                    }
+                },
+                "newspaperAdvice": {
+                    "away": "0",
+                    "draw": "0",
+                    "home": "10"
+                },
+                "odds": {
+                    "away": "5,40",
+                    "draw": "3,69",
+                    "home": "1,72"
+                },
+                "outcomes": null,
+                "participantType": "team",
+                "participants": [
+                    {
+                        "id": 1000430,
+                        "name": "Brighton",
+                        "type": "home"
+                    },
+                    {
+                        "id": 1000081,
+                        "name": "Watford",
+                        "type": "away"
+                    }
+                ],
+                "sportEventId": 15188427,
+                "sportEventStart": "2021-08-21T16:30:00+00:00"
+            },
+            {
+                "cancelled": false,
+                "description": "Blackburn-West Bromwich",
+                "distribution": {
+                    "away": "53",
+                    "draw": "27",
+                    "home": "20"
+                },
+                "eventNumber": 6,
+                "eventTypeDescription": "",
+                "extraInfo": null,
+                "league": {
+                    "country": {
+                        "id": 1000007,
+                        "name": "England"
+                    },
+                    "id": 1000381,
+                    "name": "Championship",
+                    "season": {
+                        "id": 15208122,
+                        "name": "Championship 21/22"
+                    }
+                },
+                "newspaperAdvice": {
+                    "away": "10",
+                    "draw": "0",
+                    "home": "0"
+                },
+                "odds": {
+                    "away": "2,08",
+                    "draw": "3,47",
+                    "home": "3,61"
+                },
+                "outcomes": null,
+                "participantType": "team",
+                "participants": [
+                    {
+                        "id": 1000074,
+                        "name": "Blackburn",
+                        "type": "home"
+                    },
+                    {
+                        "id": 1000056,
+                        "name": "West Bromwich",
+                        "type": "away"
+                    }
+                ],
+                "sportEventId": 15335669,
+                "sportEventStart": "2021-08-21T14:00:00+00:00"
+            },
+            {
+                "cancelled": false,
+                "description": "Cardiff-Millwall",
+                "distribution": {
+                    "away": "21",
+                    "draw": "32",
+                    "home": "47"
+                },
+                "eventNumber": 7,
+                "eventTypeDescription": "",
+                "extraInfo": null,
+                "league": {
+                    "country": {
+                        "id": 1000007,
+                        "name": "England"
+                    },
+                    "id": 1000381,
+                    "name": "Championship",
+                    "season": {
+                        "id": 15208122,
+                        "name": "Championship 21/22"
+                    }
+                },
+                "newspaperAdvice": {
+                    "away": "0",
+                    "draw": "1",
+                    "home": "9"
+                },
+                "odds": {
+                    "away": "3,48",
+                    "draw": "3,06",
+                    "home": "2,31"
+                },
+                "outcomes": null,
+                "participantType": "team",
+                "participants": [
+                    {
+                        "id": 1000505,
+                        "name": "Cardiff",
+                        "type": "home"
+                    },
+                    {
+                        "id": 1000494,
+                        "name": "Millwall",
+                        "type": "away"
+                    }
+                ],
+                "sportEventId": 15335671,
+                "sportEventStart": "2021-08-21T14:00:00+00:00"
+            },
+            {
+                "cancelled": false,
+                "description": "Coventry-Reading",
+                "distribution": {
+                    "away": "19",
+                    "draw": "26",
+                    "home": "55"
+                },
+                "eventNumber": 8,
+                "eventTypeDescription": "",
+                "extraInfo": null,
+                "league": {
+                    "country": {
+                        "id": 1000007,
+                        "name": "England"
+                    },
+                    "id": 1000381,
+                    "name": "Championship",
+                    "season": {
+                        "id": 15208122,
+                        "name": "Championship 21/22"
+                    }
+                },
+                "newspaperAdvice": {
+                    "away": "0",
+                    "draw": "1",
+                    "home": "9"
+                },
+                "odds": {
+                    "away": "3,67",
+                    "draw": "3,36",
+                    "home": "2,10"
+                },
+                "outcomes": null,
+                "participantType": "team",
+                "participants": [
+                    {
+                        "id": 1000037,
+                        "name": "Coventry",
+                        "type": "home"
+                    },
+                    {
+                        "id": 1000050,
+                        "name": "Reading",
+                        "type": "away"
+                    }
+                ],
+                "sportEventId": 15335672,
+                "sportEventStart": "2021-08-21T14:00:00+00:00"
+            },
+            {
+                "cancelled": false,
+                "description": "Derby-Middlesbrough",
+                "distribution": {
+                    "away": "44",
+                    "draw": "29",
+                    "home": "27"
+                },
+                "eventNumber": 9,
+                "eventTypeDescription": "",
+                "extraInfo": null,
+                "league": {
+                    "country": {
+                        "id": 1000007,
+                        "name": "England"
+                    },
+                    "id": 1000381,
+                    "name": "Championship",
+                    "season": {
+                        "id": 15208122,
+                        "name": "Championship 21/22"
+                    }
+                },
+                "newspaperAdvice": {
+                    "away": "8",
+                    "draw": "1",
+                    "home": "1"
+                },
+                "odds": {
+                    "away": "2,68",
+                    "draw": "3,12",
+                    "home": "2,83"
+                },
+                "outcomes": null,
+                "participantType": "team",
+                "participants": [
+                    {
+                        "id": 1000075,
+                        "name": "Derby",
+                        "type": "home"
+                    },
+                    {
+                        "id": 1000329,
+                        "name": "Middlesbrough",
+                        "type": "away"
+                    }
+                ],
+                "sportEventId": 15335673,
+                "sportEventStart": "2021-08-21T14:00:00+00:00"
+            },
+            {
+                "cancelled": false,
+                "description": "Fulham-Hull",
+                "distribution": {
+                    "away": "7",
+                    "draw": "14",
+                    "home": "79"
+                },
+                "eventNumber": 10,
+                "eventTypeDescription": "",
+                "extraInfo": null,
+                "league": {
+                    "country": {
+                        "id": 1000007,
+                        "name": "England"
+                    },
+                    "id": 1000381,
+                    "name": "Championship",
+                    "season": {
+                        "id": 15208122,
+                        "name": "Championship 21/22"
+                    }
+                },
+                "newspaperAdvice": {
+                    "away": "0",
+                    "draw": "0",
+                    "home": "10"
+                },
+                "odds": {
+                    "away": "8,60",
+                    "draw": "5,15",
+                    "home": "1,36"
+                },
+                "outcomes": null,
+                "participantType": "team",
+                "participants": [
+                    {
+                        "id": 1000489,
+                        "name": "Fulham",
+                        "type": "home"
+                    },
+                    {
+                        "id": 1000560,
+                        "name": "Hull",
+                        "type": "away"
+                    }
+                ],
+                "sportEventId": 15335674,
+                "sportEventStart": "2021-08-21T14:00:00+00:00"
+            },
+            {
+                "cancelled": false,
+                "description": "Luton-Birmingham",
+                "distribution": {
+                    "away": "20",
+                    "draw": "29",
+                    "home": "51"
+                },
+                "eventNumber": 11,
+                "eventTypeDescription": "",
+                "extraInfo": null,
+                "league": {
+                    "country": {
+                        "id": 1000007,
+                        "name": "England"
+                    },
+                    "id": 1000381,
+                    "name": "Championship",
+                    "season": {
+                        "id": 15208122,
+                        "name": "Championship 21/22"
+                    }
+                },
+                "newspaperAdvice": {
+                    "away": "0",
+                    "draw": "1",
+                    "home": "9"
+                },
+                "odds": {
+                    "away": "3,58",
+                    "draw": "3,24",
+                    "home": "2,18"
+                },
+                "outcomes": null,
+                "participantType": "team",
+                "participants": [
+                    {
+                        "id": 1000492,
+                        "name": "Luton",
+                        "type": "home"
+                    },
+                    {
+                        "id": 1000138,
+                        "name": "Birmingham",
+                        "type": "away"
+                    }
+                ],
+                "sportEventId": 15335675,
+                "sportEventStart": "2021-08-21T14:00:00+00:00"
+            },
+            {
+                "cancelled": false,
+                "description": "Preston-Peterborough",
+                "distribution": {
+                    "away": "25",
+                    "draw": "29",
+                    "home": "46"
+                },
+                "eventNumber": 12,
+                "eventTypeDescription": "",
+                "extraInfo": null,
+                "league": {
+                    "country": {
+                        "id": 1000007,
+                        "name": "England"
+                    },
+                    "id": 1000381,
+                    "name": "Championship",
+                    "season": {
+                        "id": 15208122,
+                        "name": "Championship 21/22"
+                    }
+                },
+                "newspaperAdvice": {
+                    "away": "0",
+                    "draw": "1",
+                    "home": "9"
+                },
+                "odds": {
+                    "away": "3,13",
+                    "draw": "3,21",
+                    "home": "2,40"
+                },
+                "outcomes": null,
+                "participantType": "team",
+                "participants": [
+                    {
+                        "id": 1000500,
+                        "name": "Preston",
+                        "type": "home"
+                    },
+                    {
+                        "id": 1000432,
+                        "name": "Peterborough",
+                        "type": "away"
+                    }
+                ],
+                "sportEventId": 15335676,
+                "sportEventStart": "2021-08-21T14:00:00+00:00"
+            },
+            {
+                "cancelled": false,
+                "description": "Stoke-Nottingham",
+                "distribution": {
+                    "away": "15",
+                    "draw": "24",
+                    "home": "61"
+                },
+                "eventNumber": 13,
+                "eventTypeDescription": "",
+                "extraInfo": null,
+                "league": {
+                    "country": {
+                        "id": 1000007,
+                        "name": "England"
+                    },
+                    "id": 1000381,
+                    "name": "Championship",
+                    "season": {
+                        "id": 15208122,
+                        "name": "Championship 21/22"
+                    }
+                },
+                "newspaperAdvice": {
+                    "away": "0",
+                    "draw": "0",
+                    "home": "10"
+                },
+                "odds": {
+                    "away": "4,85",
+                    "draw": "3,58",
+                    "home": "1,78"
+                },
+                "outcomes": null,
+                "participantType": "team",
+                "participants": [
+                    {
+                        "id": 1000052,
+                        "name": "Stoke",
+                        "type": "home"
+                    },
+                    {
+                        "id": 1000046,
+                        "name": "Nottingham",
+                        "type": "away"
+                    }
+                ],
+                "sportEventId": 15335678,
+                "sportEventStart": "2021-08-21T14:00:00+00:00"
+            }
+        ],
+        "extraInfo": null,
+        "fund": null,
+        "openTime": "2021-08-19T05:00:00+00:00",
+        "productId": 1,
+        "productName": "Stryktipset",
+        "sport": "Fotboll",
+        "sportId": 1,
+        "turnover": "27842930,00"
+    },
+    {
+        "checksum": "e8d2729be68668e4bc7ed2749badf58a51d6cd15",
+        "closeTime": "2021-08-14T13:59:00+00:00",
+        "drawComment": "Stryktipset v. 2021-32",
+        "drawNumber": 4702,
+        "events": [
+            {
+                "cancelled": false,
+                "description": "Chelsea-Crystal P",
+                "distribution": {
+                    "away": "4",
+                    "draw": "12",
+                    "home": "84"
+                },
+                "eventNumber": 1,
+                "eventTypeDescription": "",
+                "extraInfo": null,
+                "league": {
+                    "country": {
+                        "id": 1000007,
+                        "name": "England"
+                    },
+                    "id": 1000380,
+                    "name": "Premier League",
+                    "season": {
+                        "id": 15188314,
+                        "name": "Premier League 21/22"
+                    }
+                },
+                "newspaperAdvice": {
+                    "away": "0",
+                    "draw": "0",
+                    "home": "10"
+                },
+                "odds": null,
+                "outcomes": null,
+                "participantType": "team",
+                "participants": [
+                    {
+                        "id": 1000036,
+                        "name": "Chelsea",
+                        "type": "home"
+                    },
+                    {
+                        "id": 1000038,
+                        "name": "Crystal P",
+                        "type": "away"
+                    }
+                ],
+                "sportEventId": 15188501,
+                "sportEventStart": "2021-08-14T14:00:00+00:00"
+            },
+            {
+                "cancelled": false,
+                "description": "Norwich-Liverpool",
+                "distribution": {
+                    "away": "81",
+                    "draw": "13",
+                    "home": "6"
+                },
+                "eventNumber": 2,
+                "eventTypeDescription": "",
+                "extraInfo": null,
+                "league": {
+                    "country": {
+                        "id": 1000007,
+                        "name": "England"
+                    },
+                    "id": 1000380,
+                    "name": "Premier League",
+                    "season": {
+                        "id": 15188314,
+                        "name": "Premier League 21/22"
+                    }
+                },
+                "newspaperAdvice": {
+                    "away": "10",
+                    "draw": "0",
+                    "home": "0"
+                },
+                "odds": null,
+                "outcomes": null,
+                "participantType": "team",
+                "participants": [
+                    {
+                        "id": 1000045,
+                        "name": "Norwich",
+                        "type": "home"
+                    },
+                    {
+                        "id": 1000572,
+                        "name": "Liverpool",
+                        "type": "away"
+                    }
+                ],
+                "sportEventId": 15188438,
+                "sportEventStart": "2021-08-14T16:30:00+00:00"
+            },
+            {
+                "cancelled": false,
+                "description": "Everton-Southampton",
+                "distribution": {
+                    "away": "20",
+                    "draw": "27",
+                    "home": "53"
+                },
+                "eventNumber": 3,
+                "eventTypeDescription": "",
+                "extraInfo": null,
+                "league": {
+                    "country": {
+                        "id": 1000007,
+                        "name": "England"
+                    },
+                    "id": 1000380,
+                    "name": "Premier League",
+                    "season": {
+                        "id": 15188314,
+                        "name": "Premier League 21/22"
+                    }
+                },
+                "newspaperAdvice": {
+                    "away": "0",
+                    "draw": "0",
+                    "home": "10"
+                },
+                "odds": null,
+                "outcomes": null,
+                "participantType": "team",
+                "participants": [
+                    {
+                        "id": 1000039,
+                        "name": "Everton",
+                        "type": "home"
+                    },
+                    {
+                        "id": 1000079,
+                        "name": "Southampton",
+                        "type": "away"
+                    }
+                ],
+                "sportEventId": 15188396,
+                "sportEventStart": "2021-08-14T14:00:00+00:00"
+            },
+            {
+                "cancelled": false,
+                "description": "Leicester-Wolverhampton",
+                "distribution": {
+                    "away": "9",
+                    "draw": "19",
+                    "home": "72"
+                },
+                "eventNumber": 4,
+                "eventTypeDescription": "",
+                "extraInfo": null,
+                "league": {
+                    "country": {
+                        "id": 1000007,
+                        "name": "England"
+                    },
+                    "id": 1000380,
+                    "name": "Premier League",
+                    "season": {
+                        "id": 15188314,
+                        "name": "Premier League 21/22"
+                    }
+                },
+                "newspaperAdvice": {
+                    "away": "0",
+                    "draw": "0",
+                    "home": "10"
+                },
+                "odds": null,
+                "outcomes": null,
+                "participantType": "team",
+                "participants": [
+                    {
+                        "id": 1000077,
+                        "name": "Leicester",
+                        "type": "home"
+                    },
+                    {
+                        "id": 1000057,
+                        "name": "Wolverhampton",
+                        "type": "away"
+                    }
+                ],
+                "sportEventId": 15188652,
+                "sportEventStart": "2021-08-14T14:00:00+00:00"
+            },
+            {
+                "cancelled": false,
+                "description": "Burnley-Brighton",
+                "distribution": {
+                    "away": "43",
+                    "draw": "33",
+                    "home": "24"
+                },
+                "eventNumber": 5,
+                "eventTypeDescription": "",
+                "extraInfo": null,
+                "league": {
+                    "country": {
+                        "id": 1000007,
+                        "name": "England"
+                    },
+                    "id": 1000380,
+                    "name": "Premier League",
+                    "season": {
+                        "id": 15188314,
+                        "name": "Premier League 21/22"
+                    }
+                },
+                "newspaperAdvice": {
+                    "away": "4",
+                    "draw": "4",
+                    "home": "2"
+                },
+                "odds": null,
+                "outcomes": null,
+                "participantType": "team",
+                "participants": [
+                    {
+                        "id": 1000486,
+                        "name": "Burnley",
+                        "type": "home"
+                    },
+                    {
+                        "id": 1000430,
+                        "name": "Brighton",
+                        "type": "away"
+                    }
+                ],
+                "sportEventId": 15188400,
+                "sportEventStart": "2021-08-14T14:00:00+00:00"
+            },
+            {
+                "cancelled": false,
+                "description": "Watford-Aston Villa",
+                "distribution": {
+                    "away": "49",
+                    "draw": "25",
+                    "home": "26"
+                },
+                "eventNumber": 6,
+                "eventTypeDescription": "",
+                "extraInfo": null,
+                "league": {
+                    "country": {
+                        "id": 1000007,
+                        "name": "England"
+                    },
+                    "id": 1000380,
+                    "name": "Premier League",
+                    "season": {
+                        "id": 15188314,
+                        "name": "Premier League 21/22"
+                    }
+                },
+                "newspaperAdvice": {
+                    "away": "7",
+                    "draw": "0",
+                    "home": "3"
+                },
+                "odds": null,
+                "outcomes": null,
+                "participantType": "team",
+                "participants": [
+                    {
+                        "id": 1000081,
+                        "name": "Watford",
+                        "type": "home"
+                    },
+                    {
+                        "id": 1000512,
+                        "name": "Aston Villa",
+                        "type": "away"
+                    }
+                ],
+                "sportEventId": 15188405,
+                "sportEventStart": "2021-08-14T14:00:00+00:00"
+            },
+            {
+                "cancelled": false,
+                "description": "Birmingham-Stoke",
+                "distribution": {
+                    "away": "32",
+                    "draw": "32",
+                    "home": "36"
+                },
+                "eventNumber": 7,
+                "eventTypeDescription": "",
+                "extraInfo": null,
+                "league": {
+                    "country": {
+                        "id": 1000007,
+                        "name": "England"
+                    },
+                    "id": 1000381,
+                    "name": "Championship",
+                    "season": {
+                        "id": 15208122,
+                        "name": "Championship 21/22"
+                    }
+                },
+                "newspaperAdvice": {
+                    "away": "2",
+                    "draw": "1",
+                    "home": "7"
+                },
+                "odds": null,
+                "outcomes": null,
+                "participantType": "team",
+                "participants": [
+                    {
+                        "id": 1000138,
+                        "name": "Birmingham",
+                        "type": "home"
+                    },
+                    {
+                        "id": 1000052,
+                        "name": "Stoke",
+                        "type": "away"
+                    }
+                ],
+                "sportEventId": 15335649,
+                "sportEventStart": "2021-08-14T14:00:00+00:00"
+            },
+            {
+                "cancelled": false,
+                "description": "Blackpool-Cardiff",
+                "distribution": {
+                    "away": "42",
+                    "draw": "28",
+                    "home": "30"
+                },
+                "eventNumber": 8,
+                "eventTypeDescription": "",
+                "extraInfo": null,
+                "league": {
+                    "country": {
+                        "id": 1000007,
+                        "name": "England"
+                    },
+                    "id": 1000381,
+                    "name": "Championship",
+                    "season": {
+                        "id": 15208122,
+                        "name": "Championship 21/22"
+                    }
+                },
+                "newspaperAdvice": {
+                    "away": "8",
+                    "draw": "0",
+                    "home": "2"
+                },
+                "odds": null,
+                "outcomes": null,
+                "participantType": "team",
+                "participants": [
+                    {
+                        "id": 1000484,
+                        "name": "Blackpool",
+                        "type": "home"
+                    },
+                    {
+                        "id": 1000505,
+                        "name": "Cardiff",
+                        "type": "away"
+                    }
+                ],
+                "sportEventId": 15335650,
+                "sportEventStart": "2021-08-14T14:00:00+00:00"
+            },
+            {
+                "cancelled": false,
+                "description": "Hull-Queens PR",
+                "distribution": {
+                    "away": "31",
+                    "draw": "26",
+                    "home": "43"
+                },
+                "eventNumber": 9,
+                "eventTypeDescription": "",
+                "extraInfo": null,
+                "league": {
+                    "country": {
+                        "id": 1000007,
+                        "name": "England"
+                    },
+                    "id": 1000381,
+                    "name": "Championship",
+                    "season": {
+                        "id": 15208122,
+                        "name": "Championship 21/22"
+                    }
+                },
+                "newspaperAdvice": {
+                    "away": "1",
+                    "draw": "3",
+                    "home": "6"
+                },
+                "odds": null,
+                "outcomes": null,
+                "participantType": "team",
+                "participants": [
+                    {
+                        "id": 1000560,
+                        "name": "Hull",
+                        "type": "home"
+                    },
+                    {
+                        "id": 1000078,
+                        "name": "Queens PR",
+                        "type": "away"
+                    }
+                ],
+                "sportEventId": 15335652,
+                "sportEventStart": "2021-08-14T14:00:00+00:00"
+            },
+            {
+                "cancelled": false,
+                "description": "Huddersfield-Fulham",
+                "distribution": {
+                    "away": "66",
+                    "draw": "21",
+                    "home": "13"
+                },
+                "eventNumber": 10,
+                "eventTypeDescription": "",
+                "extraInfo": null,
+                "league": {
+                    "country": {
+                        "id": 1000007,
+                        "name": "England"
+                    },
+                    "id": 1000381,
+                    "name": "Championship",
+                    "season": {
+                        "id": 15208122,
+                        "name": "Championship 21/22"
+                    }
+                },
+                "newspaperAdvice": {
+                    "away": "8",
+                    "draw": "1",
+                    "home": "1"
+                },
+                "odds": null,
+                "outcomes": null,
+                "participantType": "team",
+                "participants": [
+                    {
+                        "id": 1000140,
+                        "name": "Huddersfield",
+                        "type": "home"
+                    },
+                    {
+                        "id": 1000489,
+                        "name": "Fulham",
+                        "type": "away"
+                    }
+                ],
+                "sportEventId": 15335651,
+                "sportEventStart": "2021-08-14T14:00:00+00:00"
+            },
+            {
+                "cancelled": false,
+                "description": "Millwall-Blackburn",
+                "distribution": {
+                    "away": "22",
+                    "draw": "28",
+                    "home": "50"
+                },
+                "eventNumber": 11,
+                "eventTypeDescription": "",
+                "extraInfo": null,
+                "league": {
+                    "country": {
+                        "id": 1000007,
+                        "name": "England"
+                    },
+                    "id": 1000381,
+                    "name": "Championship",
+                    "season": {
+                        "id": 15208122,
+                        "name": "Championship 21/22"
+                    }
+                },
+                "newspaperAdvice": {
+                    "away": "0",
+                    "draw": "1",
+                    "home": "9"
+                },
+                "odds": null,
+                "outcomes": null,
+                "participantType": "team",
+                "participants": [
+                    {
+                        "id": 1000494,
+                        "name": "Millwall",
+                        "type": "home"
+                    },
+                    {
+                        "id": 1000074,
+                        "name": "Blackburn",
+                        "type": "away"
+                    }
+                ],
+                "sportEventId": 15335654,
+                "sportEventStart": "2021-08-14T14:00:00+00:00"
+            },
+            {
+                "cancelled": false,
+                "description": "Nottingham-Bournemouth",
+                "distribution": {
+                    "away": "49",
+                    "draw": "25",
+                    "home": "26"
+                },
+                "eventNumber": 12,
+                "eventTypeDescription": "",
+                "extraInfo": null,
+                "league": {
+                    "country": {
+                        "id": 1000007,
+                        "name": "England"
+                    },
+                    "id": 1000381,
+                    "name": "Championship",
+                    "season": {
+                        "id": 15208122,
+                        "name": "Championship 21/22"
+                    }
+                },
+                "newspaperAdvice": {
+                    "away": "9",
+                    "draw": "1",
+                    "home": "0"
+                },
+                "odds": null,
+                "outcomes": null,
+                "participantType": "team",
+                "participants": [
+                    {
+                        "id": 1000046,
+                        "name": "Nottingham",
+                        "type": "home"
+                    },
+                    {
+                        "id": 1000485,
+                        "name": "Bournemouth",
+                        "type": "away"
+                    }
+                ],
+                "sportEventId": 15335655,
+                "sportEventStart": "2021-08-14T14:00:00+00:00"
+            },
+            {
+                "cancelled": false,
+                "description": "Kalmar FF-Halmstad",
+                "distribution": {
+                    "away": "16",
+                    "draw": "33",
+                    "home": "51"
+                },
+                "eventNumber": 13,
+                "eventTypeDescription": "",
+                "extraInfo": null,
+                "league": {
+                    "country": {
+                        "id": 1000006,
+                        "name": "Sverige"
+                    },
+                    "id": 1000375,
+                    "name": "Allsvenskan",
+                    "season": {
+                        "id": 14392408,
+                        "name": "Allsvenskan 2021"
+                    }
+                },
+                "newspaperAdvice": {
+                    "away": "0",
+                    "draw": "1",
+                    "home": "9"
+                },
+                "odds": null,
+                "outcomes": null,
+                "participantType": "team",
+                "participants": [
+                    {
+                        "id": 1000303,
+                        "name": "Kalmar FF",
+                        "type": "home"
+                    },
+                    {
+                        "id": 1000257,
+                        "name": "Halmstad",
+                        "type": "away"
+                    }
+                ],
+                "sportEventId": 14393377,
+                "sportEventStart": "2021-08-14T15:30:00+00:00"
+            }
+        ],
+        "extraInfo": null,
+        "fund": null,
+        "openTime": "2021-08-12T05:00:00+00:00",
+        "productId": 1,
+        "productName": "Stryktipset",
+        "sport": "Fotboll",
+        "sportId": 1,
+        "turnover": "23178516,00"
+    },
+    {
+        "checksum": "24cbfe855e6205492a912bed9db8f25a1dacfce6",
+        "closeTime": "2021-08-07T13:59:00+00:00",
+        "drawComment": "Stryktipset v. 2021-31",
+        "drawNumber": 4701,
+        "events": [
+            {
+                "cancelled": false,
+                "description": "Leicester-Manchester C",
+                "distribution": {
+                    "away": "65",
+                    "draw": "20",
+                    "home": "15"
+                },
+                "eventNumber": 1,
+                "eventTypeDescription": "",
+                "extraInfo": null,
+                "league": {
+                    "country": {
+                        "id": 1000007,
+                        "name": "England"
+                    },
+                    "id": 1000430,
+                    "name": "Community Shield",
+                    "season": {
+                        "id": 15172819,
+                        "name": "Community Shield 2021"
+                    }
+                },
+                "newspaperAdvice": {
+                    "away": "10",
+                    "draw": "0",
+                    "home": "0"
+                },
+                "odds": null,
+                "outcomes": null,
+                "participantType": "team",
+                "participants": [
+                    {
+                        "id": 1000077,
+                        "name": "Leicester",
+                        "type": "home"
+                    },
+                    {
+                        "id": 1000328,
+                        "name": "Manchester C",
+                        "type": "away"
+                    }
+                ],
+                "sportEventId": 15309975,
+                "sportEventStart": "2021-08-07T16:15:00+00:00"
+            },
+            {
+                "cancelled": false,
+                "description": "Blackburn-Swansea",
+                "distribution": {
+                    "away": "23",
+                    "draw": "29",
+                    "home": "48"
+                },
+                "eventNumber": 2,
+                "eventTypeDescription": "",
+                "extraInfo": null,
+                "league": {
+                    "country": {
+                        "id": 1000007,
+                        "name": "England"
+                    },
+                    "id": 1000381,
+                    "name": "Championship",
+                    "season": {
+                        "id": 15208122,
+                        "name": "Championship 21/22"
+                    }
+                },
+                "newspaperAdvice": {
+                    "away": "2",
+                    "draw": "1",
+                    "home": "7"
+                },
+                "odds": null,
+                "outcomes": null,
+                "participantType": "team",
+                "participants": [
+                    {
+                        "id": 1000074,
+                        "name": "Blackburn",
+                        "type": "home"
+                    },
+                    {
+                        "id": 1000438,
+                        "name": "Swansea",
+                        "type": "away"
+                    }
+                ],
+                "sportEventId": 15208206,
+                "sportEventStart": "2021-08-07T14:00:00+00:00"
+            },
+            {
+                "cancelled": false,
+                "description": "Bristol C-Blackpool",
+                "distribution": {
+                    "away": "22",
+                    "draw": "27",
+                    "home": "51"
+                },
+                "eventNumber": 3,
+                "eventTypeDescription": "",
+                "extraInfo": null,
+                "league": {
+                    "country": {
+                        "id": 1000007,
+                        "name": "England"
+                    },
+                    "id": 1000381,
+                    "name": "Championship",
+                    "season": {
+                        "id": 15208122,
+                        "name": "Championship 21/22"
+                    }
+                },
+                "newspaperAdvice": {
+                    "away": "0",
+                    "draw": "0",
+                    "home": "10"
+                },
+                "odds": null,
+                "outcomes": null,
+                "participantType": "team",
+                "participants": [
+                    {
+                        "id": 1000070,
+                        "name": "Bristol C",
+                        "type": "home"
+                    },
+                    {
+                        "id": 1000484,
+                        "name": "Blackpool",
+                        "type": "away"
+                    }
+                ],
+                "sportEventId": 15208209,
+                "sportEventStart": "2021-08-07T14:00:00+00:00"
+            },
+            {
+                "cancelled": false,
+                "description": "Cardiff-Barnsley",
+                "distribution": {
+                    "away": "23",
+                    "draw": "26",
+                    "home": "51"
+                },
+                "eventNumber": 4,
+                "eventTypeDescription": "",
+                "extraInfo": null,
+                "league": {
+                    "country": {
+                        "id": 1000007,
+                        "name": "England"
+                    },
+                    "id": 1000381,
+                    "name": "Championship",
+                    "season": {
+                        "id": 15208122,
+                        "name": "Championship 21/22"
+                    }
+                },
+                "newspaperAdvice": {
+                    "away": "1",
+                    "draw": "0",
+                    "home": "9"
+                },
+                "odds": null,
+                "outcomes": null,
+                "participantType": "team",
+                "participants": [
+                    {
+                        "id": 1000505,
+                        "name": "Cardiff",
+                        "type": "home"
+                    },
+                    {
+                        "id": 1000562,
+                        "name": "Barnsley",
+                        "type": "away"
+                    }
+                ],
+                "sportEventId": 15208215,
+                "sportEventStart": "2021-08-07T14:00:00+00:00"
+            },
+            {
+                "cancelled": false,
+                "description": "Derby-Huddersfield",
+                "distribution": {
+                    "away": "36",
+                    "draw": "26",
+                    "home": "38"
+                },
+                "eventNumber": 5,
+                "eventTypeDescription": "",
+                "extraInfo": null,
+                "league": {
+                    "country": {
+                        "id": 1000007,
+                        "name": "England"
+                    },
+                    "id": 1000381,
+                    "name": "Championship",
+                    "season": {
+                        "id": 15208122,
+                        "name": "Championship 21/22"
+                    }
+                },
+                "newspaperAdvice": {
+                    "away": "6",
+                    "draw": "0",
+                    "home": "4"
+                },
+                "odds": null,
+                "outcomes": null,
+                "participantType": "team",
+                "participants": [
+                    {
+                        "id": 1000075,
+                        "name": "Derby",
+                        "type": "home"
+                    },
+                    {
+                        "id": 1000140,
+                        "name": "Huddersfield",
+                        "type": "away"
+                    }
+                ],
+                "sportEventId": 15208207,
+                "sportEventStart": "2021-08-07T14:00:00+00:00"
+            },
+            {
+                "cancelled": false,
+                "description": "Luton-Peterborough",
+                "distribution": {
+                    "away": "20",
+                    "draw": "22",
+                    "home": "58"
+                },
+                "eventNumber": 6,
+                "eventTypeDescription": "",
+                "extraInfo": null,
+                "league": {
+                    "country": {
+                        "id": 1000007,
+                        "name": "England"
+                    },
+                    "id": 1000381,
+                    "name": "Championship",
+                    "season": {
+                        "id": 15208122,
+                        "name": "Championship 21/22"
+                    }
+                },
+                "newspaperAdvice": {
+                    "away": "0",
+                    "draw": "0",
+                    "home": "10"
+                },
+                "odds": null,
+                "outcomes": null,
+                "participantType": "team",
+                "participants": [
+                    {
+                        "id": 1000492,
+                        "name": "Luton",
+                        "type": "home"
+                    },
+                    {
+                        "id": 1000432,
+                        "name": "Peterborough",
+                        "type": "away"
+                    }
+                ],
+                "sportEventId": 15208211,
+                "sportEventStart": "2021-08-07T14:00:00+00:00"
+            },
+            {
+                "cancelled": false,
+                "description": "Preston-Hull",
+                "distribution": {
+                    "away": "23",
+                    "draw": "27",
+                    "home": "50"
+                },
+                "eventNumber": 7,
+                "eventTypeDescription": "",
+                "extraInfo": null,
+                "league": {
+                    "country": {
+                        "id": 1000007,
+                        "name": "England"
+                    },
+                    "id": 1000381,
+                    "name": "Championship",
+                    "season": {
+                        "id": 15208122,
+                        "name": "Championship 21/22"
+                    }
+                },
+                "newspaperAdvice": {
+                    "away": "0",
+                    "draw": "0",
+                    "home": "10"
+                },
+                "odds": null,
+                "outcomes": null,
+                "participantType": "team",
+                "participants": [
+                    {
+                        "id": 1000500,
+                        "name": "Preston",
+                        "type": "home"
+                    },
+                    {
+                        "id": 1000560,
+                        "name": "Hull",
+                        "type": "away"
+                    }
+                ],
+                "sportEventId": 15208214,
+                "sportEventStart": "2021-08-07T14:00:00+00:00"
+            },
+            {
+                "cancelled": false,
+                "description": "Queens PR-Millwall",
+                "distribution": {
+                    "away": "16",
+                    "draw": "25",
+                    "home": "59"
+                },
+                "eventNumber": 8,
+                "eventTypeDescription": "",
+                "extraInfo": null,
+                "league": {
+                    "country": {
+                        "id": 1000007,
+                        "name": "England"
+                    },
+                    "id": 1000381,
+                    "name": "Championship",
+                    "season": {
+                        "id": 15208122,
+                        "name": "Championship 21/22"
+                    }
+                },
+                "newspaperAdvice": {
+                    "away": "0",
+                    "draw": "1",
+                    "home": "9"
+                },
+                "odds": null,
+                "outcomes": null,
+                "participantType": "team",
+                "participants": [
+                    {
+                        "id": 1000078,
+                        "name": "Queens PR",
+                        "type": "home"
+                    },
+                    {
+                        "id": 1000494,
+                        "name": "Millwall",
+                        "type": "away"
+                    }
+                ],
+                "sportEventId": 15208218,
+                "sportEventStart": "2021-08-07T14:00:00+00:00"
+            },
+            {
+                "cancelled": false,
+                "description": "Stoke-Reading",
+                "distribution": {
+                    "away": "14",
+                    "draw": "24",
+                    "home": "62"
+                },
+                "eventNumber": 9,
+                "eventTypeDescription": "",
+                "extraInfo": null,
+                "league": {
+                    "country": {
+                        "id": 1000007,
+                        "name": "England"
+                    },
+                    "id": 1000381,
+                    "name": "Championship",
+                    "season": {
+                        "id": 15208122,
+                        "name": "Championship 21/22"
+                    }
+                },
+                "newspaperAdvice": {
+                    "away": "1",
+                    "draw": "0",
+                    "home": "9"
+                },
+                "odds": null,
+                "outcomes": null,
+                "participantType": "team",
+                "participants": [
+                    {
+                        "id": 1000052,
+                        "name": "Stoke",
+                        "type": "home"
+                    },
+                    {
+                        "id": 1000050,
+                        "name": "Reading",
+                        "type": "away"
+                    }
+                ],
+                "sportEventId": 15208222,
+                "sportEventStart": "2021-08-07T14:00:00+00:00"
+            },
+            {
+                "cancelled": false,
+                "description": "Halmstad-Malm\u00f6 FF",
+                "distribution": {
+                    "away": "66",
+                    "draw": "22",
+                    "home": "12"
+                },
+                "eventNumber": 10,
+                "eventTypeDescription": "",
+                "extraInfo": null,
+                "league": {
+                    "country": {
+                        "id": 1000006,
+                        "name": "Sverige"
+                    },
+                    "id": 1000375,
+                    "name": "Allsvenskan",
+                    "season": {
+                        "id": 14392408,
+                        "name": "Allsvenskan 2021"
+                    }
+                },
+                "newspaperAdvice": {
+                    "away": "10",
+                    "draw": "0",
+                    "home": "0"
+                },
+                "odds": null,
+                "outcomes": null,
+                "participantType": "team",
+                "participants": [
+                    {
+                        "id": 1000257,
+                        "name": "Halmstad",
+                        "type": "home"
+                    },
+                    {
+                        "id": 1000260,
+                        "name": "Malm\u00f6 FF",
+                        "type": "away"
+                    }
+                ],
+                "sportEventId": 14393649,
+                "sportEventStart": "2021-08-07T15:30:00+00:00"
+            },
+            {
+                "cancelled": false,
+                "description": "\u00d6rebro SK-Mj\u00e4llby AIF",
+                "distribution": {
+                    "away": "24",
+                    "draw": "24",
+                    "home": "52"
+                },
+                "eventNumber": 11,
+                "eventTypeDescription": "",
+                "extraInfo": null,
+                "league": {
+                    "country": {
+                        "id": 1000006,
+                        "name": "Sverige"
+                    },
+                    "id": 1000375,
+                    "name": "Allsvenskan",
+                    "season": {
+                        "id": 14392408,
+                        "name": "Allsvenskan 2021"
+                    }
+                },
+                "newspaperAdvice": {
+                    "away": "1",
+                    "draw": "1",
+                    "home": "8"
+                },
+                "odds": null,
+                "outcomes": null,
+                "participantType": "team",
+                "participants": [
+                    {
+                        "id": 1000263,
+                        "name": "\u00d6rebro SK",
+                        "type": "home"
+                    },
+                    {
+                        "id": 1000306,
+                        "name": "Mj\u00e4llby AIF",
+                        "type": "away"
+                    }
+                ],
+                "sportEventId": 14392697,
+                "sportEventStart": "2021-08-07T15:30:00+00:00"
+            },
+            {
+                "cancelled": false,
+                "description": "Falkenbergs FF-GIF Sundsvall",
+                "distribution": {
+                    "away": "34",
+                    "draw": "24",
+                    "home": "42"
+                },
+                "eventNumber": 12,
+                "eventTypeDescription": "",
+                "extraInfo": null,
+                "league": {
+                    "country": {
+                        "id": 1000006,
+                        "name": "Sverige"
+                    },
+                    "id": 1000489,
+                    "name": "Superettan",
+                    "season": {
+                        "id": 14392543,
+                        "name": "Superettan 2021"
+                    }
+                },
+                "newspaperAdvice": {
+                    "away": "5",
+                    "draw": "1",
+                    "home": "4"
+                },
+                "odds": null,
+                "outcomes": null,
+                "participantType": "team",
+                "participants": [
+                    {
+                        "id": 1000142,
+                        "name": "Falkenbergs FF",
+                        "type": "home"
+                    },
+                    {
+                        "id": 1001143,
+                        "name": "GIF Sundsvall",
+                        "type": "away"
+                    }
+                ],
+                "sportEventId": 14394248,
+                "sportEventStart": "2021-08-07T15:00:00+00:00"
+            },
+            {
+                "cancelled": false,
+                "description": "IFK V\u00e4rnamo-AFC Eskilstuna",
+                "distribution": {
+                    "away": "10",
+                    "draw": "18",
+                    "home": "72"
+                },
+                "eventNumber": 13,
+                "eventTypeDescription": "",
+                "extraInfo": null,
+                "league": {
+                    "country": {
+                        "id": 1000006,
+                        "name": "Sverige"
+                    },
+                    "id": 1000489,
+                    "name": "Superettan",
+                    "season": {
+                        "id": 14392543,
+                        "name": "Superettan 2021"
+                    }
+                },
+                "newspaperAdvice": {
+                    "away": "0",
+                    "draw": "0",
+                    "home": "10"
+                },
+                "odds": null,
+                "outcomes": null,
+                "participantType": "team",
+                "participants": [
+                    {
+                        "id": 1000957,
+                        "name": "IFK V\u00e4rnamo",
+                        "type": "home"
+                    },
+                    {
+                        "id": 1003079,
+                        "name": "AFC Eskilstuna",
+                        "type": "away"
+                    }
+                ],
+                "sportEventId": 14392687,
+                "sportEventStart": "2021-08-07T15:00:00+00:00"
+            }
+        ],
+        "extraInfo": null,
+        "fund": null,
+        "openTime": "2021-08-05T05:00:00+00:00",
+        "productId": 1,
+        "productName": "Stryktipset",
+        "sport": "Fotboll",
+        "sportId": 1,
+        "turnover": "15784073,00"
+    }
+]
