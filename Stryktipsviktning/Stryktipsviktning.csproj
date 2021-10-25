@@ -7,8 +7,8 @@
 
   <ItemGroup>
     <PackageReference Include="Ardalis.SmartEnum" Version="2.0.1" />
-    <PackageReference Include="Selenium.WebDriver" Version="4.0.0-beta4" />
-    <PackageReference Include="HtmlAgilityPack" Version="1.11.36" />
+    <PackageReference Include="Selenium.WebDriver" Version="4.0.1" />
+    <PackageReference Include="HtmlAgilityPack" Version="1.11.37" />
   </ItemGroup>
 
   <ItemGroup>
@@ -22,8 +22,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <None Update="tempStringTask.txt">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    <None Update="tempStringTask.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
   </ItemGroup>
 </Project>

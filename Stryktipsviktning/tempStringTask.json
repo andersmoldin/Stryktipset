@@ -159,9 +159,9 @@
                 "cancelled": false,
                 "description": "Cypern-Ryssland",
                 "distribution": {
-                    "away": "69",
-                    "draw": "18",
-                    "home": "13"
+                    "away": "15",
+                    "draw": "25",
+                    "home": "60"
                 },
                 "eventNumber": 4,
                 "eventTypeDescription": "",
@@ -184,9 +184,9 @@
                     "home": "0"
                 },
                 "odds": {
-                    "away": "1,38",
-                    "draw": "4,80",
-                    "home": "8,25"
+                    "away": "3.90",
+                    "draw": "3.16",
+                    "home": "2.11"
                 },
                 "outcomes": null,
                 "participantType": "team",
@@ -209,9 +209,9 @@
                 "cancelled": false,
                 "description": "Irland-Azerbajdzjan",
                 "distribution": {
-                    "away": "11",
-                    "draw": "23",
-                    "home": "66"
+                    "away": "45",
+                    "draw": "30",
+                    "home": "25"
                 },
                 "eventNumber": 5,
                 "eventTypeDescription": "",
@@ -234,9 +234,9 @@
                     "home": "10"
                 },
                 "odds": {
-                    "away": "6,05",
-                    "draw": "4,25",
-                    "home": "1,55"
+                    "away": "2.64",
+                    "draw": "3.20",
+                    "home": "2.83"
                 },
                 "outcomes": null,
                 "participantType": "team",
@@ -259,9 +259,9 @@
                 "cancelled": false,
                 "description": "Israel-\u00d6sterrike",
                 "distribution": {
-                    "away": "41",
-                    "draw": "30",
-                    "home": "29"
+                    "away": "22",
+                    "draw": "25",
+                    "home": "53"
                 },
                 "eventNumber": 6,
                 "eventTypeDescription": "",
@@ -284,9 +284,9 @@
                     "home": "1"
                 },
                 "odds": {
-                    "away": "2,18",
-                    "draw": "3,38",
-                    "home": "3,41"
+                    "away": "3.65",
+                    "draw": "3.24",
+                    "home": "2.16"
                 },
                 "outcomes": null,
                 "participantType": "team",
@@ -309,9 +309,9 @@
                 "cancelled": false,
                 "description": "Skottland-Moldavien",
                 "distribution": {
-                    "away": "8",
-                    "draw": "12",
-                    "home": "80"
+                    "away": "10",
+                    "draw": "20",
+                    "home": "70"
                 },
                 "eventNumber": 7,
                 "eventTypeDescription": "",
@@ -334,9 +334,9 @@
                     "home": "10"
                 },
                 "odds": {
-                    "away": "13,00",
-                    "draw": "7,55",
-                    "home": "1,20"
+                    "away": "4.90",
+                    "draw": "3.45",
+                    "home": "1.81"
                 },
                 "outcomes": null,
                 "participantType": "team",
@@ -359,9 +359,9 @@
                 "cancelled": false,
                 "description": "Serbien-Luxemburg",
                 "distribution": {
-                    "away": "8",
-                    "draw": "15",
-                    "home": "77"
+                    "away": "43",
+                    "draw": "27",
+                    "home": "30"
                 },
                 "eventNumber": 8,
                 "eventTypeDescription": "",
@@ -384,9 +384,9 @@
                     "home": "10"
                 },
                 "odds": {
-                    "away": "11,70",
-                    "draw": "7,10",
-                    "home": "1,22"
+                    "away": "2.85",
+                    "draw": "3.07",
+                    "home": "2.67"
                 },
                 "outcomes": null,
                 "participantType": "team",
@@ -409,9 +409,9 @@
                 "cancelled": false,
                 "description": "IF Sylvia-Hudiksvalls F\u00f6renade FF",
                 "distribution": {
-                    "away": "12",
-                    "draw": "20",
-                    "home": "68"
+                    "away": "20",
+                    "draw": "26",
+                    "home": "54"
                 },
                 "eventNumber": 9,
                 "eventTypeDescription": "",
@@ -434,9 +434,9 @@
                     "home": "10"
                 },
                 "odds": {
-                    "away": "9,10",
-                    "draw": "5,35",
-                    "home": "1,27"
+                    "away": "3.19",
+                    "draw": "3.15",
+                    "home": "2.38"
                 },
                 "outcomes": null,
                 "participantType": "team",
@@ -459,9 +459,9 @@
                 "cancelled": false,
                 "description": "Sollentuna FK-T\u00e4by FK",
                 "distribution": {
-                    "away": "20",
-                    "draw": "27",
-                    "home": "53"
+                    "away": "28",
+                    "draw": "25",
+                    "home": "47"
                 },
                 "eventNumber": 10,
                 "eventTypeDescription": "",
@@ -484,9 +484,9 @@
                     "home": "10"
                 },
                 "odds": {
-                    "away": "3,36",
-                    "draw": "3,85",
-                    "home": "1,90"
+                    "away": "3.21",
+                    "draw": "3.29",
+                    "home": "2.32"
                 },
                 "outcomes": null,
                 "participantType": "team",
@@ -509,9 +509,9 @@
                 "cancelled": false,
                 "description": "Lunds BK-FC Trollh\u00e4ttan",
                 "distribution": {
-                    "away": "37",
-                    "draw": "29",
-                    "home": "34"
+                    "away": "47",
+                    "draw": "25",
+                    "home": "28"
                 },
                 "eventNumber": 11,
                 "eventTypeDescription": "",
@@ -555,9 +555,9 @@
                 "cancelled": false,
                 "description": "Almeria-Malaga",
                 "distribution": {
-                    "away": "18",
-                    "draw": "30",
-                    "home": "52"
+                    "away": "12",
+                    "draw": "18",
+                    "home": "70"
                 },
                 "eventNumber": 12,
                 "eventTypeDescription": "",
@@ -580,9 +580,9 @@
                     "home": "10"
                 },
                 "odds": {
-                    "away": "4,80",
-                    "draw": "3,22",
-                    "home": "1,71"
+                    "away": "6.00",
+                    "draw": "3.43",
+                    "home": "1.69"
                 },
                 "outcomes": null,
                 "participantType": "team",
@@ -605,9 +605,9 @@
                 "cancelled": false,
                 "description": "Eibar-CD Leganes",
                 "distribution": {
-                    "away": "22",
-                    "draw": "34",
-                    "home": "44"
+                    "away": "59",
+                    "draw": "25",
+                    "home": "16"
                 },
                 "eventNumber": 13,
                 "eventTypeDescription": "",
@@ -630,9 +630,9 @@
                     "home": "10"
                 },
                 "odds": {
-                    "away": "3,22",
-                    "draw": "2,92",
-                    "home": "2,21"
+                    "away": "2.30",
+                    "draw": "3.31",
+                    "home": "3.22"
                 },
                 "outcomes": null,
                 "participantType": "team",
