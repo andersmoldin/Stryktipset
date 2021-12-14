@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.809.0
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StryktipsetCore", "StryktipsetCore\StryktipsetCore.csproj", "{42FA42FB-4942-4EA7-8B66-D5CA07B50B00}"
 EndProject
@@ -9,7 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stryktipsviktning", "Strykt
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Weighted Randomizer", "Weighted Randomizer\Weighted Randomizer.csproj", "{1245BC96-2F42-404C-9F11-65A4326299D6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stryktipset", "Stryktipset\Stryktipset.csproj", "{E4922774-1BEB-477D-BBC3-6E1F3EAEE483}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stryktipset", "Stryktipset\Stryktipset.csproj", "{E4922774-1BEB-477D-BBC3-6E1F3EAEE483}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StryktipsetCoreWin", "StryktipsetCoreWin\StryktipsetCoreWin.csproj", "{E8A5B3F8-D190-449D-9C85-D53446C98DC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StryktipsetStats", "StryktipsetStats\StryktipsetStats.csproj", "{4C349532-F96E-49B3-9ED0-17A8FE26D83A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{E4922774-1BEB-477D-BBC3-6E1F3EAEE483}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E4922774-1BEB-477D-BBC3-6E1F3EAEE483}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E4922774-1BEB-477D-BBC3-6E1F3EAEE483}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8A5B3F8-D190-449D-9C85-D53446C98DC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8A5B3F8-D190-449D-9C85-D53446C98DC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8A5B3F8-D190-449D-9C85-D53446C98DC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8A5B3F8-D190-449D-9C85-D53446C98DC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C349532-F96E-49B3-9ED0-17A8FE26D83A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C349532-F96E-49B3-9ED0-17A8FE26D83A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C349532-F96E-49B3-9ED0-17A8FE26D83A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C349532-F96E-49B3-9ED0-17A8FE26D83A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

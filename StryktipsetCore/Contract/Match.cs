@@ -26,5 +26,11 @@ namespace StryktipsetCore.Contract
         public double TioTidningarEtt { get; set; }
         public double TioTidningarKryss{ get; set; }
         public double TioTidningarTvå { get; set; }
+        public double OddsetEtt { get; set; }
+        public double OddsetKryss { get; set; }
+        public double OddsetTvå { get; set; }
+        public double OddsetEttProcent { get; set; }
+        public double OddsetKryssProcent { get; set; }
+        public double OddsetTvåProcent { get; set; }
     }
 }

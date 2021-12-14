@@ -48,6 +48,12 @@ namespace StryktipsetCore
             Map(m => m.TioTidningarTvå).Name("tioTidningar2");
             Map(m => m.Utfall).Name("utfall");
             Map(m => m.Vecka).Name("omg");
+            Map(m => m.OddsetEtt).Name("oddset1");
+            Map(m => m.OddsetKryss).Name("oddsetX");
+            Map(m => m.OddsetTvå).Name("oddset2");
+            Map(m => m.OddsetEttProcent).Name("oddsetProcent1");
+            Map(m => m.OddsetKryssProcent).Name("oddsetProcentX");
+            Map(m => m.OddsetTvåProcent).Name("oddsetProcent2");
         }
     }
 }
