@@ -45,9 +45,9 @@ namespace StryktipsetStats
                     loops++;
 
                     var oddsfavoritskapRad = GenereraTipsRad(oddsfavoritskap, slumpadeGarderingar);
-                    var spelvärdeRad = GenereraTipsRad(oddsfavoritskap, slumpadeGarderingar);
-                    var komboslumpRad = GenereraTipsRad(oddsfavoritskap, slumpadeGarderingar);
-                    var slumpRad = GenereraTipsRad(oddsfavoritskap, slumpadeGarderingar);
+                    var spelvärdeRad = GenereraTipsRad(spelvärde, slumpadeGarderingar);
+                    var komboslumpRad = GenereraTipsRad(komboslump, slumpadeGarderingar);
+                    var slumpRad = GenereraTipsRad(slump, slumpadeGarderingar);
 
                     oddsfavoritskapStats[RättaRad(slumpadOmgång, oddsfavoritskapRad)]++;
                     spelvärdeStats[RättaRad(slumpadOmgång, spelvärdeRad)]++;
