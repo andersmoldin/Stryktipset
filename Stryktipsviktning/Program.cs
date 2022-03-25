@@ -216,7 +216,7 @@ namespace Stryktipsviktning
         private static async Task<List<string>> MasseraApiOchRäknaUtOddsfavoritskapOchSpelvärdeFörMSystem(MSystem mSystem, Värde? värde = null, Dictionary<int, DynamicWeightedRandomizer<string>> oddsfavoritskap = null, Dictionary<int, DynamicWeightedRandomizer<string>> spelvärde = null)
         {
             var viktning = new Dictionary<int, DynamicWeightedRandomizer<string>>();
-            var response = await HämtaFrånStryketApiAsync();
+            var response = HämtaFrånStryketApi();
             var currentWeek = response.OrderByDescending(r => r.CloseTime).First().Events;
             var slumpadeGarderingar = SlumpaGarderingarFörMSystem(mSystem.Value);
 
@@ -236,7 +236,7 @@ namespace Stryktipsviktning
                 }
             }
             
-            return GenereraTipsRad(viktning, slumpadeGarderingar);
+            return GenereraTipsRad(viktning, slumpadeGarderingar, currentWeek);
 
             void Vikta(Värde? värde, int i)
             {
@@ -469,7 +469,7 @@ namespace Stryktipsviktning
             return rad;
         }
 
-        private static List<string> GenereraTipsRad(Dictionary<int, DynamicWeightedRandomizer<string>> viktning, Dictionary<int, int> slumpadeGarderingar)
+        private static List<string> GenereraTipsRad(Dictionary<int, DynamicWeightedRandomizer<string>> viktning, Dictionary<int, int> slumpadeGarderingar, List<Event> currentWeek)
         {
             var rad = new List<string>();
 
@@ -497,6 +497,12 @@ namespace Stryktipsviktning
                         }
                     } while (rad.ElementAt(i).Length != slumpadeGarderingar.ElementAt(i).Value);
                 }
+            }
+
+            //Prettify
+            for (int i = 0; i < 13; i++)
+            {
+                rad[i] = $"{(i + 1).ToString(), 2}. {Prettify(rad[i]).PadRight(3)} ({currentWeek[i].Participants[0].Name} - {currentWeek[i].Participants[1].Name})";
             }
 
             return rad;
@@ -538,20 +544,22 @@ namespace Stryktipsviktning
 
         private static void Print(string input)
         {
+            Console.WriteLine(input);
+        }
+
+        private static string Prettify(string input)
+        {
             switch (input.Length)
             {
                 case 1:
                     switch (input)
                     {
                         case "1":
-                            Console.WriteLine($"{"1",1}");
-                            break;
+                            return $"{"1",1}";
                         case "X":
-                            Console.WriteLine($"{"X",2}");
-                            break;
+                            return $"{"X",2}";
                         case "2":
-                            Console.WriteLine($"{"2",3}");
-                            break;
+                            return $"{"2",3}";
                     }
                     break;
                 case 2:
@@ -559,23 +567,20 @@ namespace Stryktipsviktning
                     {
                         case "1X":
                         case "X1":
-                            Console.WriteLine($"{"1X",2}");
-                            break;
+                            return $"{"1X",2}";
                         case "X2":
                         case "2X":
-                            Console.WriteLine($"{"X2",3}");
-                            break;
+                            return $"{"X2",3}";
                         case "12":
                         case "21":
-                            Console.WriteLine("1 2");
-                            break;
+                            return "1 2";
                     }
                     break;
                 default:
-                    Console.WriteLine("1X2");
-                    break;
+                    return "1X2";
             }
-            
+
+            throw new Exception("Hit ska vi verkligen inte komma.");
         }
     }
 }
