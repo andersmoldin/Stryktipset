@@ -1,4 +1,5 @@
-﻿using Ardalis.SmartEnum;
+﻿using System;
+using Ardalis.SmartEnum;
 
 namespace StryktipsetCore.Contract
 {
@@ -21,7 +22,7 @@ namespace StryktipsetCore.Contract
             Slump
         }
 
-        public class MSystem : SmartEnum<MSystem>
+        public class MSystem : SmartEnum<MSystem>, ISystem
         {
             public static readonly MSystem M1 = new MSystem(1, "M1");
             public static readonly MSystem M2 = new MSystem(2, "M2");
@@ -91,8 +92,115 @@ namespace StryktipsetCore.Contract
             public static readonly MSystem M8748 = new MSystem(8748, "M8748");
             public static readonly MSystem M6561 = new MSystem(6561, "M6561");
 
+            public static readonly MSystem R0716 = new MSystem(-1, "R0-7-16 (12)");
+            public static readonly MSystem R3324 = new MSystem(-1, "R3-3-24 (12)");
+            public static readonly MSystem R409 = new MSystem(-1, "R4-0-9 (12)");
+            public static readonly MSystem R44144 = new MSystem(-1, "R4-4-144 (12)");
+
+            public static readonly MSystem R2512 = new MSystem(-1, "R2-5-12 (11)");
+            public static readonly MSystem R4424 = new MSystem(-1, "R4-4-24 (11)");
+            public static readonly MSystem R4548 = new MSystem(-1, "R4-5-48 (11)");
+            public static readonly MSystem R4672 = new MSystem(-1, "R4-6-72 (11)");
+            public static readonly MSystem R47144 = new MSystem(-1, "R4-7-144 (11)");
+            public static readonly MSystem R5018 = new MSystem(-1, "R5-0-18 (11)");
+            public static readonly MSystem R5336 = new MSystem(-1, "R5-3-36 (11)");
+            public static readonly MSystem R55108 = new MSystem(-1, "R5-5-108 (11)");
+            public static readonly MSystem R6372 = new MSystem(-1, "R6-3-72 (11)");
+            public static readonly MSystem R72108 = new MSystem(-1, "R7-2-108 (11)");
+            public static readonly MSystem R82324 = new MSystem(-1, "R8-2-324 (11)");
+            public static readonly MSystem R90243 = new MSystem(-1, "R9-0-243 (11)");
+
+            public static readonly MSystem R01116 = new MSystem(-1, "R0-11-16 (10)");
+            public static readonly MSystem R4624 = new MSystem(-1, "R4-6-24 (10)");
+            public static readonly MSystem R4748 = new MSystem(-1, "R4-7-48 (10)");
+            public static readonly MSystem R6324 = new MSystem(-1, "R6-3-24 (10)");
+            public static readonly MSystem R6444 = new MSystem(-1, "R6-4-44 (10)");
+            public static readonly MSystem R7234 = new MSystem(-1, "R7-2-34 (10)");
+            public static readonly MSystem R8027 = new MSystem(-1, "R8-0-27 (10)");
+            public static readonly MSystem R100153 = new MSystem(-1, "R10-0-153 (10)");
+
             private MSystem(int value, string displayName) : base(displayName, value) { }
         }
 
+        public class RSystem : SmartEnum<RSystem>, ISystem
+        {
+            /// <summary>
+            /// R0-7-16 (12)
+            /// </summary>
+            public static readonly RSystem R0_7_16 = new RSystem(-1, "R0-7-16 (12)");
+
+            /// <summary>
+            /// R3-3-24 (12)
+            /// </summary>
+            public static readonly RSystem R3_3_24 = new RSystem(-1, "R3-3-24 (12)");
+
+            /// <summary>
+            /// R4-0-9 (12)
+            /// </summary>
+            public static readonly RSystem R4_0_9 = new RSystem(-1, "R4-0-9 (12)");
+
+            /// <summary>
+            /// R4-4-144 (12)
+            /// </summary>
+            public static readonly RSystem R4_4_144 = new RSystem(-1, "R4-4-144 (12)");
+
+            /// <summary>
+            /// R2-5-12 (11)
+            /// </summary>
+            public static readonly RSystem R2_5_12 = new RSystem(-1, "R2-5-12 (11)");
+
+            /// <summary>
+            /// R4-4-24 (11)
+            /// </summary>
+            public static readonly RSystem R4_4_24 = new RSystem(-1, "R4-4-24 (11)");
+
+            /// <summary>
+            /// R4-5-48 (11)
+            /// </summary>
+            public static readonly RSystem R4_5_48 = new RSystem(-1, "R4-5-48 (11)");
+            public static readonly RSystem R4_6_72 = new RSystem(-1, "R4-6-72 (11)");
+            public static readonly RSystem R4_7_144 = new RSystem(-1, "R4-7-144 (11)");
+            public static readonly RSystem R5_0_18 = new RSystem(-1, "R5-0-18 (11)");
+            public static readonly RSystem R5_3_36 = new RSystem(-1, "R5-3-36 (11)");
+            public static readonly RSystem R5_5_108 = new RSystem(-1, "R5-5-108 (11)");
+            public static readonly RSystem R6_3_72 = new RSystem(-1, "R6-3-72 (11)");
+            public static readonly RSystem R7_2_108 = new RSystem(-1, "R7-2-108 (11)");
+            public static readonly RSystem R8_2_324 = new RSystem(-1, "R8-2-324 (11)");
+            public static readonly RSystem R9_0_243 = new RSystem(-1, "R9-0-243 (11)");
+
+            public static readonly RSystem R0_11_16 = new RSystem(-1, "R0-11-16 (10)");
+            public static readonly RSystem R4_6_24 = new RSystem(-1, "R4-6-24 (10)");
+            public static readonly RSystem R4_7_48 = new RSystem(-1, "R4-7-48 (10)");
+            public static readonly RSystem R6_3_24 = new RSystem(-1, "R6-3-24 (10)");
+            public static readonly RSystem R6_4_44 = new RSystem(-1, "R6-4-44 (10)");
+            public static readonly RSystem R7_2_34 = new RSystem(-1, "R7-2-34 (10)");
+            public static readonly RSystem R8_0_27 = new RSystem(-1, "R8-0-27 (10)");
+            public static readonly RSystem R10_0_153 = new RSystem(-1, "R10-0-153 (10)");
+
+            private RSystem(int value, string displayName) : base(displayName, value) { }
+
+            public RSystemValues GetRSystemValues(RSystem rSystem)
+            {
+                var values = rSystem.Name.Substring(1).Split('_');
+                return new RSystemValues
+                {
+                    Helgarderingar = Convert.ToInt32(values[0]),
+                    Halvgarderingar = Convert.ToInt32(values[1]),
+                    RaderISystemet = Convert.ToInt32(values[2])
+                };
+            }
+        }
+
+        public class RSystemValues
+        {
+            public int Helgarderingar { get; set; }
+            public int Halvgarderingar { get; set; }
+            public int RaderISystemet { get; set; }
+        }
+
+        public interface ISystem
+        {
+
+        }
     }
 }
