@@ -29,8 +29,10 @@ namespace Stryktipsviktning
         static async Task Main(string[] args)
         {
             Initialize();
-            Console.WriteLine($"Rad anno {DateTime.Now.ToString("HH:mm")}:");
-            SkrivUtKupong(MasseraApiOchRäknaUtOddsfavoritskapOchSpelvärdeFörMSystem(RSystem.R0_7_16, Värde.Komboslump).Result, Värde.Komboslump);
+            Console.WriteLine($"Rad anno {DateTime.Now:HH:mm}:");
+            SkrivUtKupong(MasseraApiOchRäknaUtOddsfavoritskapOchSpelvärdeFörMSystem(RSystem.R4_4_144, Värde.Spelvärde).Result, Värde.Spelvärde);
+            Console.WriteLine();
+            SkrivUtKupong(MasseraApiOchRäknaUtOddsfavoritskapOchSpelvärdeFörMSystem(RSystem.R4_4_144, Värde.Komboslump).Result, Värde.Komboslump);
             Console.WriteLine();
 
             /*var oddsfavoritskap = MasseraApiOchRäknaUtOddsfavoritskapOchSpelvärde(Värde.Oddsfavoritskap).Result;
@@ -213,12 +215,12 @@ namespace Stryktipsviktning
             return GenereraTipsRad(viktning);
         }
 
-        private static async Task<List<string>> MasseraApiOchRäknaUtOddsfavoritskapOchSpelvärdeFörMSystem(ISystem iSystem, Värde? värde = null, Dictionary<int, DynamicWeightedRandomizer<string>> oddsfavoritskap = null, Dictionary<int, DynamicWeightedRandomizer<string>> spelvärde = null)
+        private static async Task<List<string>> MasseraApiOchRäknaUtOddsfavoritskapOchSpelvärdeFörMSystem(ISystem system, Värde? värde = null, Dictionary<int, DynamicWeightedRandomizer<string>> oddsfavoritskap = null, Dictionary<int, DynamicWeightedRandomizer<string>> spelvärde = null)
         {
             var viktning = new Dictionary<int, DynamicWeightedRandomizer<string>>();
             var response = HämtaFrånStryketApi();
             var currentWeek = response.OrderByDescending(r => r.CloseTime).First().Events;
-            var slumpadeGarderingar = SlumpaGarderingarFörMSystem(iSystem as MSystem);
+            var slumpadeGarderingar = SlumpaGarderingarFörMSystem(system);
 
             for (int i = 0; i < currentWeek.Count; i++)
             {
@@ -233,6 +235,10 @@ namespace Stryktipsviktning
                 else if (värde == null)
                 {
                     Vikta(null, i);
+                }
+                else
+                {
+                    Vikta(värde, i);
                 }
             }
             
@@ -455,12 +461,23 @@ namespace Stryktipsviktning
             Dictionary<int, int> faktorer;
             switch (system)
             {
-                case MSystem:
-                    faktorer = Utilities.Faktorisera(system as MSystem);
+                case MSystem mSystem:
+                    faktorer = Utilities.Faktorisera(mSystem);
                     break;
-                case RSystem:
-                    var rSystem = (system as RSystem);
-                    faktorer = new Dictionary<int, int>() { {rSystem.GetRSystemValues(rSystem).Helgarderingar, rSystem.GetRSystemValues(rSystem).Halvgarderingar } };
+                case RSystem rSystem:
+                    faktorer = new Dictionary<int, int>();
+
+                    var rSystemValues = rSystem.GetRSystemValues(rSystem);
+
+                    if (rSystemValues.Halvgarderingar > 0)
+                    {
+                        faktorer.Add(2, rSystemValues.Halvgarderingar);
+                    }
+
+                    if (rSystemValues.Helgarderingar > 0)
+                    {
+                        faktorer.Add(3, rSystemValues.Helgarderingar);
+                    }
                     break;
                 default:
                     throw new Exception($"system ({system.GetType()}) går inte att processa.");

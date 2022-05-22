@@ -181,12 +181,12 @@ namespace StryktipsetCore.Contract
 
             public RSystemValues GetRSystemValues(RSystem rSystem)
             {
-                var values = rSystem.Name.Substring(1).Split('_');
+                var values = rSystem.Name[1..].Split("-");
                 return new RSystemValues
                 {
                     Helgarderingar = Convert.ToInt32(values[0]),
                     Halvgarderingar = Convert.ToInt32(values[1]),
-                    RaderISystemet = Convert.ToInt32(values[2])
+                    RaderISystemet = Convert.ToInt32(values[2].Split(" ")[0])
                 };
             }
         }
